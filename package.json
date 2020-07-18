@@ -1,0 +1,55 @@
+{
+  "name": "vscode-css-snippets",
+  "displayName": "VSCode CSS Snippets",
+  "version": "0.0.1",
+  "description": "CSS Snippets for fast prototyping",
+  "categories": [
+    "Snippets"
+  ],
+  "keywords": [
+    "snippets",
+    "css",
+    "tailwind"
+  ],
+  "homepage": "https://github.com/navin-moorthy/vscode-css-snippets#readme",
+  "bugs": "https://github.com/navin-moorthy/vscode-css-snippets/issue",
+  "repository": "https://github.com/navin-moorthy/vscode-css-snippets",
+  "license": "MIT",
+  "author": "Navin Moorthy <navin007.a@gmail.com>",
+  "publisher": "navin-moorthy",
+  "scripts": {
+    "bootstrap": "lerna bootstrap",
+    "commit": "gacp",
+    "format": "prettier --write \"./**/*.{js,ts,css,less,json,md,html,yml,yaml,pcss,jsx,tsx}\"",
+    "lerna-version": "lerna version",
+    "lint": "eslint . --ext .js --fix",
+    "lint:package": "sort-package-json"
+  },
+  "contributes": {
+    "snippets": [
+      {
+        "language": "css",
+        "path": "./snippets/snippets.json"
+      }
+    ]
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^9.1.1",
+    "@commitlint/config-conventional": "^9.1.1",
+    "conventional-changelog-metahub": "^4.0.1",
+    "eslint": "^7.5.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-import": "^2.22.0",
+    "eslint-plugin-prettier": "^3.1.4",
+    "gacp": "^2.10.0",
+    "husky": "^4.2.5",
+    "lerna": "^3.22.1",
+    "lint-staged": "^10.2.11",
+    "prettier": "^2.0.5",
+    "sort-package-json": "^1.44.0"
+  },
+  "engines": {
+    "vscode": "^1.47.0"
+  }
+}
