@@ -1,0 +1,52 @@
+{
+  "nth-child": {
+    "prefix": "nth-child",
+    "body": [".${1:classname}:nth-child(${2}) {", "  ${0}", "}"],
+    "description": "nth-child"
+  },
+  "even": {
+    "prefix": "even",
+    "body": [".${1:classname}:nth-child(2n) {", "  ${0}", "}"],
+    "description": "even"
+  },
+  "odd": {
+    "prefix": "odd",
+    "body": [".${1:classname}:nth-child(odd) {", "  ${0}", "}"],
+    "description": "odd"
+  },
+  "last": {
+    "prefix": "last",
+    "body": [".${1:classname}:last-child {", "  ${0}", "}"],
+    "description": "last"
+  },
+  "first": {
+    "prefix": "first",
+    "body": [".${1:classname}:first-child {", "  ${0}", "}"],
+    "description": "first"
+  },
+  "visited": {
+    "prefix": "visited",
+    "body": [".${1:classname}:visited {", "  ${0}", "}"],
+    "description": "visited"
+  },
+  "disabled": {
+    "prefix": "disabled",
+    "body": [".${1:classname}:disabled {", "  ${0}", "}"],
+    "description": "disabled"
+  },
+  "active": {
+    "prefix": "active",
+    "body": [".${1:classname}:active {", "  ${0}", "}"],
+    "description": "active"
+  },
+  "focus": {
+    "prefix": "focus",
+    "body": [".${1:classname}:focus {", "  ${0}", "}"],
+    "description": "focus"
+  },
+  "hover": {
+    "prefix": "hover",
+    "body": [".${1:classname}:hover {", "  ${0}", "}"],
+    "description": "hover"
+  }
+}
