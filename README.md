@@ -4,9 +4,8 @@
 
 ## Description
 
-Collection of CSS Snippets to make your life easier by auto-completing your
-desired styles based on popular CSS Library -
-[Tailwind](https://tailwindcss.com/) and
+Collection of CSS Snippets to make your life easier by auto-completing css rules
+based on popular CSS Library - [Tailwind](https://tailwindcss.com/) and
 [1 line layouts](https://1linelayouts.glitch.me/)
 
 It's not debatable, most of us got used to utility classes from
