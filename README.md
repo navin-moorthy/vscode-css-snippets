@@ -61,6 +61,8 @@ You can enable tab completion (recommended) by opening
 
 ## Snippets
 
+**[See how to utilize snippets marked with `selected` →](media/selected-guide.gif)**
+
 ### Common
 
 #### CSS Reset
@@ -259,5 +261,5 @@ You can enable tab completion (recommended) by opening
 
 This is an Open Source Project with MIT License. You can also contribute to this
 extension by adding your own list of CSS Snippets which you think will help
-others increase their productivity, see [Contributing Docs →]() for detailed
-guidance.
+others increase their productivity, see [Contributing Docs →](CONTRIBUTING.md)
+for detailed guidance.
