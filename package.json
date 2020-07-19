@@ -12,7 +12,7 @@
     "tailwind"
   ],
   "homepage": "https://github.com/navin-moorthy/vscode-css-snippets#readme",
-  "bugs": "https://github.com/navin-moorthy/vscode-css-snippets/issue",
+  "bugs": "https://github.com/navin-moorthy/vscode-css-snippets/issues",
   "repository": "https://github.com/navin-moorthy/vscode-css-snippets",
   "license": "MIT",
   "author": "Navin Moorthy <navin007.a@gmail.com>",
