@@ -29,7 +29,23 @@
     "snippets": [
       {
         "language": "css",
-        "path": "./snippets/snippets.json"
+        "path": "./snippets/css-reset.json"
+      },
+      {
+        "language": "css",
+        "path": "./snippets/pseudo.json"
+      },
+      {
+        "language": "css",
+        "path": "./snippets/breakpoints.json"
+      },
+      {
+        "language": "css",
+        "path": "./snippets/tailwind/layout.json"
+      },
+      {
+        "language": "css",
+        "path": "./snippets/contributions/snippet.json"
       }
     ]
   },

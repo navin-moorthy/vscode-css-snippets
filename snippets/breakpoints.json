@@ -1,0 +1,156 @@
+{
+  "selected-extra-large-breakpoint": {
+    "prefix": "resp-xl-selected",
+    "body": [
+      "${TM_SELECTED_TEXT}",
+      "",
+      "@media (min-width: 1280px) {",
+      "  ${TM_SELECTED_TEXT}",
+      "}",
+      ""
+    ],
+    "description": "Selected Extra Large breakpoint"
+  },
+  "extra-large-breakpoint": {
+    "prefix": "resp-xl",
+    "body": [
+      "@media (min-width: 1280px) {",
+      "  .${1:classname} {",
+      "    ${0}",
+      "  }",
+      "}",
+      ""
+    ],
+    "description": "Extra Large Breakpoint"
+  },
+  "selected-large-breakpoint": {
+    "prefix": "resp-lg-selected",
+    "body": [
+      "${TM_SELECTED_TEXT}",
+      "",
+      "@media (min-width: 1024px) {",
+      "  ${TM_SELECTED_TEXT}",
+      "}",
+      ""
+    ],
+    "description": "Selected Large breakpoint"
+  },
+  "large-breakpoint": {
+    "prefix": "resp-lg",
+    "body": [
+      "@media (min-width: 1024px) {",
+      "  .${1:classname} {",
+      "    ${0}",
+      "  }",
+      "}",
+      ""
+    ],
+    "description": "Large Breakpoint"
+  },
+  "selected-medium-breakpoint": {
+    "prefix": "resp-md-selected",
+    "body": [
+      "${TM_SELECTED_TEXT}",
+      "",
+      "@media (min-width: 768px) {",
+      "  ${TM_SELECTED_TEXT}",
+      "}",
+      ""
+    ],
+    "description": "Selected Medium breakpoint"
+  },
+  "medium-breakpoint": {
+    "prefix": "resp-md",
+    "body": [
+      "@media (min-width: 768px) {",
+      "  .${1:classname} {",
+      "    ${0}",
+      "  }",
+      "}",
+      ""
+    ],
+    "description": "Medium Breakpoint"
+  },
+  "selected-small-breakpoint": {
+    "prefix": "resp-sm-selected",
+    "body": [
+      "${TM_SELECTED_TEXT}",
+      "",
+      "@media (min-width: 640px) {",
+      "  ${TM_SELECTED_TEXT}",
+      "}",
+      ""
+    ],
+    "description": "Selected Small breakpoint"
+  },
+  "small-breakpoint": {
+    "prefix": "resp-sm",
+    "body": [
+      "@media (min-width: 640px) {",
+      "  .${1:classname} {",
+      "    ${0}",
+      "  }",
+      "}",
+      ""
+    ],
+    "description": "Small Breakpoint"
+  },
+  "selected-breakpoints": {
+    "prefix": "resp-selected",
+    "body": [
+      "${TM_SELECTED_TEXT}",
+      "",
+      "@media (min-width: 640px) {",
+      "  ${TM_SELECTED_TEXT}",
+      "}",
+      "",
+      "@media (min-width: 768px) {",
+      "  ${TM_SELECTED_TEXT}",
+      "}",
+      "",
+      "@media (min-width: 1024px) {",
+      "  ${TM_SELECTED_TEXT}",
+      "}",
+      "",
+      "@media (min-width: 1280px) {",
+      "  ${TM_SELECTED_TEXT}",
+      "}",
+      ""
+    ],
+    "description": "Selected breakpoints"
+  },
+  "breakpoints": {
+    "prefix": "resp",
+    "body": [
+      ".${1:classname} {",
+      "  ${2:styles}",
+      "}",
+      "",
+      "@media (min-width: 640px) {",
+      "  .${1:classname} {",
+      "    ${3:styles}",
+      "  }",
+      "}",
+      "",
+      "@media (min-width: 768px) {",
+      "  .${1:classname} {",
+      "    ${4:styles}",
+      "  }",
+      "}",
+      "",
+      "@media (min-width: 1024px) {",
+      "  .${1:classname} {",
+      "    ${5:styles}",
+      "  }",
+      "}",
+      "",
+      "@media (min-width: 1280px) {",
+      "  .${1:classname} {",
+      "    ${0}",
+      "  }",
+      "}",
+      ""
+    ],
+    "description": "All Tailwind Breakpoints"
+  }
+}

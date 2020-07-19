@@ -1,0 +1,462 @@
+{
+  "right-auto": {
+    "prefix": "right-auto",
+    "body": ["right: auto;"],
+    "description": "right-auto"
+  },
+  "bottom-auto": {
+    "prefix": "bottom-auto",
+    "body": ["bottom: auto;"],
+    "description": "bottom-auto"
+  },
+  "left-auto": {
+    "prefix": "left-auto",
+    "body": ["left: auto;"],
+    "description": "left-auto"
+  },
+  "top-auto": {
+    "prefix": "top-auto",
+    "body": ["top: auto;"],
+    "description": "top-auto"
+  },
+  "right-0": {
+    "prefix": "right-0",
+    "body": ["right: 0;"],
+    "description": "right-0"
+  },
+  "bottom-0": {
+    "prefix": "bottom-0",
+    "body": ["bottom: 0;"],
+    "description": "bottom-0"
+  },
+  "left-0": {
+    "prefix": "left-0",
+    "body": ["left: 0;"],
+    "description": "left-0"
+  },
+  "top-0": {
+    "prefix": "top-0",
+    "body": ["top: 0;"],
+    "description": "top-0"
+  },
+  "z-auto": {
+    "prefix": "z-auto",
+    "body": ["z-index: auto;"],
+    "description": "z-index auto"
+  },
+  "z-50": {
+    "prefix": "z-50",
+    "body": ["z-index: 50;"],
+    "description": "z-index 50"
+  },
+  "z-40": {
+    "prefix": "z-40",
+    "body": ["z-index: 40;"],
+    "description": "z-index 40"
+  },
+  "z-30": {
+    "prefix": "z-30",
+    "body": ["z-index: 30;"],
+    "description": "z-index 30"
+  },
+  "z-20": {
+    "prefix": "z-20",
+    "body": ["z-index: 20;"],
+    "description": "z-index 20"
+  },
+  "z-10": {
+    "prefix": "z-10",
+    "body": ["z-index: 10;"],
+    "description": "z-index 10"
+  },
+  "z-0": {
+    "prefix": "z-0",
+    "body": ["z-index: 0;"],
+    "description": "z-index 0"
+  },
+  "invisible": {
+    "prefix": "invisible",
+    "body": ["visibility: hidden;"],
+    "description": "visibility hidden"
+  },
+  "visible": {
+    "prefix": "visible",
+    "body": ["visibility: visible;"],
+    "description": "visibility visible"
+  },
+  "inset-auto": {
+    "prefix": "inset-auto",
+    "body": ["top: auto;", "right: auto;", "bottom: auto;", "left: auto;"],
+    "description": "inset-auto"
+  },
+  "inset-x-auto": {
+    "prefix": "inset-x-auto",
+    "body": ["right: auto;", "left: auto;"],
+    "description": "inset-x-auto"
+  },
+  "inset-y-auto": {
+    "prefix": "inset-y-auto",
+    "body": ["top: auto;", "bottom: auto;"],
+    "description": "inset-y-auto"
+  },
+  "inset-x-0": {
+    "prefix": "inset-x-0",
+    "body": ["right: 0;", "left: 0;"],
+    "description": "inset-x-0"
+  },
+  "inset-y-0": {
+    "prefix": "inset-y-0",
+    "body": ["top: 0;", "bottom: 0;"],
+    "description": "inset-y-0"
+  },
+  "inset-0": {
+    "prefix": "inset-0",
+    "body": ["top: 0;", "right: 0;", "bottom: 0;", "left: 0;"],
+    "description": "inset-0"
+  },
+  "sticky": {
+    "prefix": "sticky",
+    "body": ["position: sticky;"],
+    "description": "position sticky"
+  },
+  "relative": {
+    "prefix": "relative",
+    "body": ["position: relative;"],
+    "description": "position relative"
+  },
+  "absolute": {
+    "prefix": "absolute",
+    "body": ["position: absolute;"],
+    "description": "position absolute"
+  },
+  "fixed": {
+    "prefix": "fixed",
+    "body": ["position: fixed;"],
+    "description": "position fixed"
+  },
+  "static": {
+    "prefix": "static",
+    "body": ["position: static;"],
+    "description": "position static"
+  },
+  "scrolling-auto": {
+    "prefix": "scrolling-auto",
+    "body": ["-webkit-overflow-scrolling: auto;"],
+    "description": "scrolling-auto"
+  },
+  "scrolling-touch": {
+    "prefix": "scrolling-touch",
+    "body": ["-webkit-overflow-scrolling: touch;"],
+    "description": "scrolling-touch"
+  },
+  "overflow-y-scroll": {
+    "prefix": "overflow-y-scroll",
+    "body": ["overflow-y: scroll;"],
+    "description": "overflow-y-scroll"
+  },
+  "overflow-y-visible": {
+    "prefix": "overflow-y-visible",
+    "body": ["overflow-y: visible;"],
+    "description": "overflow-y-visible"
+  },
+  "overflow-y-hidden": {
+    "prefix": "overflow-y-hidden",
+    "body": ["overflow-y: hidden;"],
+    "description": "overflow-y-hidden"
+  },
+  "overflow-y-auto": {
+    "prefix": "overflow-y-auto",
+    "body": ["overflow-y: auto;"],
+    "description": "overflow-y-auto"
+  },
+  "overflow-x-scroll": {
+    "prefix": "overflow-x-scroll",
+    "body": ["overflow-x: scroll;"],
+    "description": "overflow-x-scroll"
+  },
+  "overflow-x-visible": {
+    "prefix": "overflow-x-visible",
+    "body": ["overflow-x: visible;"],
+    "description": "overflow-x-visible"
+  },
+  "overflow-x-hidden": {
+    "prefix": "overflow-x-hidden",
+    "body": ["overflow-x: hidden;"],
+    "description": "overflow-x-hidden"
+  },
+  "overflow-x-auto": {
+    "prefix": "overflow-x-auto",
+    "body": ["overflow-x: auto;"],
+    "description": "overflow-x-auto"
+  },
+  "overflow-scroll": {
+    "prefix": "overflow-scroll",
+    "body": ["overflow: scroll;"],
+    "description": "overflow-scroll"
+  },
+  "overflow-visible": {
+    "prefix": "overflow-visible",
+    "body": ["overflow: visible;"],
+    "description": "overflow-visible"
+  },
+  "overflow-hidden": {
+    "prefix": "overflow-hidden",
+    "body": ["overflow: hidden;"],
+    "description": "overflow-hidden"
+  },
+  "overflow-auto": {
+    "prefix": "overflow-auto",
+    "body": ["overflow: auto;"],
+    "description": "overflow-auto"
+  },
+  "object-left-top": {
+    "prefix": "object-left-top",
+    "body": ["object-position: left top;"],
+    "description": "object-left-top"
+  },
+  "object-right-top": {
+    "prefix": "object-right-top",
+    "body": ["object-position: right top;"],
+    "description": "object-right-top"
+  },
+  "object-left-bottom": {
+    "prefix": "object-left-bottom",
+    "body": ["object-position: left bottom;"],
+    "description": "object-left-bottom"
+  },
+  "object-right-bottom": {
+    "prefix": "object-right-bottom",
+    "body": ["object-position: right bottom;"],
+    "description": "object-right-bottom"
+  },
+  "object-right": {
+    "prefix": "object-right",
+    "body": ["object-position: right;"],
+    "description": "object-right"
+  },
+  "object-left": {
+    "prefix": "object-left",
+    "body": ["object-position: left;"],
+    "description": "object-left"
+  },
+  "object-center": {
+    "prefix": "object-center",
+    "body": ["object-position: center;"],
+    "description": "object-center"
+  },
+  "object-top": {
+    "prefix": "object-top",
+    "body": ["object-position: top;"],
+    "description": "object-top"
+  },
+  "object-bottom": {
+    "prefix": "object-bottom",
+    "body": ["object-position: bottom;"],
+    "description": "object-bottom"
+  },
+  "object-scale-down": {
+    "prefix": "object-scale-down",
+    "body": ["object-fit: scale-down;"],
+    "description": "object-scale-down"
+  },
+  "object-fill": {
+    "prefix": "object-fill",
+    "body": ["object-fit: fill;"],
+    "description": "object-fill"
+  },
+  "object-cover": {
+    "prefix": "object-cover",
+    "body": ["object-fit: cover;"],
+    "description": "object-cover"
+  },
+  "object-contain": {
+    "prefix": "object-contain",
+    "body": ["object-fit: contain;"],
+    "description": "object-contain"
+  },
+  "object-none": {
+    "prefix": "object-none",
+    "body": ["object-fit: none;"],
+    "description": "object-none"
+  },
+  "clear-both": {
+    "prefix": "clear-both",
+    "body": ["clear: both;"],
+    "description": "clear-both"
+  },
+  "clear-right": {
+    "prefix": "clear-right",
+    "body": ["clear: right;"],
+    "description": "clear-right"
+  },
+  "clear-left": {
+    "prefix": "clear-left",
+    "body": ["clear: left;"],
+    "description": "clear-left"
+  },
+  "clear-none": {
+    "prefix": "clear-none",
+    "body": ["clear: none;"],
+    "description": "clear-none"
+  },
+  "clearfix": {
+    "prefix": "clearfix",
+    "body": [
+      ".${1:classname}::after {",
+      "  content: \"\";",
+      "  display: table;",
+      "  clear: both;",
+      "}"
+    ],
+    "description": "clearfix"
+  },
+  "float-none": {
+    "prefix": "float-none",
+    "body": ["float: none;"],
+    "description": "float-none"
+  },
+  "float-left": {
+    "prefix": "float-left",
+    "body": ["float: left;"],
+    "description": "float-left"
+  },
+  "float-right": {
+    "prefix": "float-right",
+    "body": ["float: right;"],
+    "description": "float-right"
+  },
+  "table-row": {
+    "prefix": "table-row",
+    "body": ["display: table-row;"],
+    "description": "display table-row"
+  },
+  "table-row-group": {
+    "prefix": "table-row-group",
+    "body": ["display: table-row-group;"],
+    "description": "display table-row-group"
+  },
+  "table-header-group": {
+    "prefix": "table-header-group",
+    "body": ["display: table-header-group;"],
+    "description": "display table-header-group"
+  },
+  "table-footer-group": {
+    "prefix": "table-footer-group",
+    "body": ["display: table-footer-group;"],
+    "description": "display table-footer-group"
+  },
+  "table-column-group": {
+    "prefix": "table-column-group",
+    "body": ["display: table-column-group;"],
+    "description": "display table-column-group"
+  },
+  "table-column": {
+    "prefix": "table-column",
+    "body": ["display: table-column;"],
+    "description": "display table-column"
+  },
+  "table-cell": {
+    "prefix": "table-cell",
+    "body": ["display: table-cell;"],
+    "description": "display table-cell"
+  },
+  "table-caption": {
+    "prefix": "table-caption",
+    "body": ["display: table-caption;"],
+    "description": "display table-caption"
+  },
+  "table": {
+    "prefix": "table",
+    "body": ["display: table;"],
+    "description": "display table"
+  },
+  "inline-grid": {
+    "prefix": "inline-grid",
+    "body": ["display: inline-grid;"],
+    "description": "display inline-grid"
+  },
+  "grid": {
+    "prefix": "grid",
+    "body": ["display: grid;"],
+    "description": "display grid"
+  },
+  "inline-flex": {
+    "prefix": "inline-flex",
+    "body": ["display: inline-flex;"],
+    "description": "display inline-flex"
+  },
+  "flex": {
+    "prefix": "flex",
+    "body": ["display: flex;"],
+    "description": "display flex"
+  },
+  "inline": {
+    "prefix": "inline",
+    "body": ["display: inline;"],
+    "description": "display inline"
+  },
+  "inline-block": {
+    "prefix": "inline-block",
+    "body": ["display: inline-block;"],
+    "description": "display inline-block"
+  },
+  "flow-root": {
+    "prefix": "flow-root",
+    "body": ["display: flow-root;"],
+    "description": "display flow-root"
+  },
+  "block": {
+    "prefix": "block",
+    "body": ["display: block;"],
+    "description": "display block"
+  },
+  "hidden": {
+    "prefix": "hidden",
+    "body": ["display: none;"],
+    "description": "display hidden"
+  },
+  "content-box": {
+    "prefix": "box-content",
+    "body": ["box-sizing: content-box;"],
+    "description": "box-sizing content-box"
+  },
+  "border-box": {
+    "prefix": "box-border",
+    "body": ["box-sizing: border-box;"],
+    "description": "box-sizing border-box"
+  },
+  "container": {
+    "prefix": "container",
+    "body": [
+      ".container {",
+      "  width: 100%;",
+      "}",
+      "",
+      "@media (min-width: 640px) {",
+      "  .container {",
+      "    max-width: 640px;",
+      "  }",
+      "}",
+      "",
+      "@media (min-width: 768px) {",
+      "  .container {",
+      "    max-width: 768px;",
+      "  }",
+      "}",
+      "",
+      "@media (min-width: 1024px) {",
+      "  .container {",
+      "    max-width: 1024px;",
+      "  }",
+      "}",
+      "",
+      "@media (min-width: 1280px) {",
+      "  .container {",
+      "    max-width: 1280px;",
+      "  }",
+      "}",
+      ""
+    ],
+    "description": "A component for fixing an element's width to the current breakpoint."
+  }
+}
