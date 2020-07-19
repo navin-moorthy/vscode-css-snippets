@@ -94,7 +94,8 @@ Uses `yarn` mostly and `lerna` just for `github releases`
 - You can utilize
   [snippet variables](https://code.visualstudio.com/docs/editor/userdefinedsnippets#_variables)
   to enable interactivity within you snippets
-- Check [`snippets/breakpoints.json`](snippets/breakpoints.json)
+- Check
+  [`snippets/breakpoints.json`](https://github.com/navin-moorthy/vscode-css-snippets/blob/master/snippets/contributions/snippet.json)
 
 #### Test your snippets locally
 
@@ -169,4 +170,5 @@ Pull requests will be merged by me(@navin-moorthy) once submitted.
 ## License
 
 By contributing your code to the chakra-ui GitHub repository, you agree to
-license your contribution under the [MIT license](LICENSE).
+license your contribution under the
+[MIT license](https://github.com/navin-moorthy/vscode-css-snippets/blob/master/LICENSE).
