@@ -52,5 +52,9 @@
   "engines": {
     "vscode": "^1.47.0"
   },
-  "icon": "media/icon.png"
+  "icon": "media/icon.png",
+  "galleryBanner": {
+    "color": "#EA2E6E",
+    "theme": "dark"
+  }
 }
