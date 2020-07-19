@@ -1,6 +1,6 @@
 # VSCode CSS Snippets
 
-![Cover](media/cover.jpg)
+![Cover](https://raw.githubusercontent.com/navin-moorthy/vscode-css-snippets/master/media/cover.jpg)
 
 ## Description
 
@@ -22,7 +22,7 @@ To see the list of all the CSS Snippets, go [here →](#snippets)
 Want to have your own favourite CSS Snippets in this extension, see
 [Contributing →](#contributing)
 
-![Tailwind Layout snippets Showcase](media/vscode-css-snippets.gif)
+![Tailwind Layout snippets Showcase](https://github.com/navin-moorthy/vscode-css-snippets/raw/master/media/vscode-css-snippets.gif)
 
 ## Installation
 
@@ -61,7 +61,7 @@ You can enable tab completion (recommended) by opening
 
 ## Snippets
 
-**[See how to utilize snippets marked with `selected` →](media/selected-guide.gif)**
+**[See how to utilize snippets marked with `selected` →](https://raw.githubusercontent.com/navin-moorthy/vscode-css-snippets/master/media/selected-guide.gif)**
 
 ### Common
 
@@ -264,4 +264,6 @@ This is an Open Source Project with MIT License.
 You can also contribute to this extension by adding your own list of CSS
 Snippets which you think will help others increase their productivity.
 
-See [Contributing Docs →](CONTRIBUTING.md) for detailed guidance.
+See
+[Contributing Docs →](https://github.com/navin-moorthy/vscode-css-snippets/blob/master/CONTRIBUTING.md)
+for detailed guidance.
