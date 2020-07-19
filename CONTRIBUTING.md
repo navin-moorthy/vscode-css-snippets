@@ -2,6 +2,20 @@
 
 Thanks for showing interest in contributing to VSCode CSS Snippets 💖
 
+- [Welcome Aboard](#welcome-aboard)
+  - [Introduction](#introduction)
+  - [Quick Contribution Details](#quick-contribution-details)
+  - [Detailed Contribution Details](#detailed-contribution-details)
+    - [Setup](#setup)
+    - [Development](#development)
+      - [What's in the folder](#whats-in-the-folder)
+      - [Creating new snippets](#creating-new-snippets)
+      - [Test your snippets locally](#test-your-snippets-locally)
+      - [Make changes and reload](#make-changes-and-reload)
+    - [Commit Convention](#commit-convention)
+    - [Steps to PR](#steps-to-pr)
+  - [License](#license)
+
 ## Introduction
 
 Valid snippets require below 4 details,
