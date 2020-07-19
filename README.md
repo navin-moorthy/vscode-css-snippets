@@ -259,7 +259,9 @@ You can enable tab completion (recommended) by opening
 
 ## Contributing
 
-This is an Open Source Project with MIT License. You can also contribute to this
-extension by adding your own list of CSS Snippets which you think will help
-others increase their productivity, see [Contributing Docs →](CONTRIBUTING.md)
-for detailed guidance.
+This is an Open Source Project with MIT License.
+
+You can also contribute to this extension by adding your own list of CSS
+Snippets which you think will help others increase their productivity.
+
+See [Contributing Docs →](CONTRIBUTING.md) for detailed guidance.
