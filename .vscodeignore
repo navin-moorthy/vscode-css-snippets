@@ -7,3 +7,8 @@ yarn.lock
 .gacprc.json
 .huskyrc.json
 .lintstagedrc.json
+.eslintignore
+.prettierignore
+lerna-debug.log
+lerna.json
+yarn-error.log
