@@ -56,5 +56,6 @@
   "galleryBanner": {
     "color": "#EA2E6E",
     "theme": "dark"
-  }
+  },
+  "preview": true
 }
