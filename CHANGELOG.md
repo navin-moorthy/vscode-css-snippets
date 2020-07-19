@@ -3,6 +3,42 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.1.2](https://github.com/navin-moorthy/vscode-css-snippets/compare/v0.1.1...v0.1.2) (2020-07-19)
+
+
+### 📚 Documentation
+
+* **readme:** ✏️  typo in readme change ([06d34d1](https://github.com/navin-moorthy/vscode-css-snippets/commit/06d34d151858bf40578356fcef397a4cc510ddc3))
+
+
+### ♻️ Chores
+
+* **changelog:** ✏️  fix changelog generated ([6781919](https://github.com/navin-moorthy/vscode-css-snippets/commit/6781919b97827c6ce7c3c5d0ea66735c5a8bfa6f))
+* **logo:** 🔧  move logo out of media to support vsce publish ([0567f1b](https://github.com/navin-moorthy/vscode-css-snippets/commit/0567f1b600ef78c7e05b56fa616940462641eb61))
+* **typo:** ✏️  issue url typo ([e70a650](https://github.com/navin-moorthy/vscode-css-snippets/commit/e70a650a8b9c4188369eb020dfe4f0111df5d867))
+
+
+
+
+
+## [0.1.2](https://github.com/navin-moorthy/vscode-css-snippets/compare/v0.1.1...v0.1.2) (2020-07-19)
+
+
+### 📚 Documentation
+
+* **readme:** ✏️  typo in readme change ([06d34d1](https://github.com/navin-moorthy/vscode-css-snippets/commit/06d34d151858bf40578356fcef397a4cc510ddc3))
+
+
+### ♻️ Chores
+
+* **changelog:** ✏️  fix changelog generated ([6781919](https://github.com/navin-moorthy/vscode-css-snippets/commit/6781919b97827c6ce7c3c5d0ea66735c5a8bfa6f))
+* **logo:** 🔧  move logo out of media to support vsce publish ([0567f1b](https://github.com/navin-moorthy/vscode-css-snippets/commit/0567f1b600ef78c7e05b56fa616940462641eb61))
+* **typo:** ✏️  issue url typo ([e70a650](https://github.com/navin-moorthy/vscode-css-snippets/commit/e70a650a8b9c4188369eb020dfe4f0111df5d867))
+
+
+
+
+
 ## 0.1.1 (2020-07-19)
 
 
