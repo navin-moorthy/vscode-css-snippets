@@ -3,6 +3,52 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.2.0](https://github.com/navin-moorthy/vscode-css-snippets/compare/v0.1.2...v0.2.0) (2020-07-20)
+
+
+### ✨ Features
+
+* **snippets:** ✨  add 1linelayouts to the snippets list ([#19](https://github.com/navin-moorthy/vscode-css-snippets/issues/19)) ([1bacd02](https://github.com/navin-moorthy/vscode-css-snippets/commit/1bacd0218eb422fc5e03844b1955c278eeed148d)), closes [#18](https://github.com/navin-moorthy/vscode-css-snippets/issues/18)
+
+
+### 📚 Documentation
+
+* **readme:** ✏️  add https gif and fix typo in description ([#21](https://github.com/navin-moorthy/vscode-css-snippets/issues/21)) ([bac3b45](https://github.com/navin-moorthy/vscode-css-snippets/commit/bac3b450466b5243e8bfe6cce7a75259d1388805)), closes [#20](https://github.com/navin-moorthy/vscode-css-snippets/issues/20)
+* **readme:** ✏️  change highlight to template literals ([#23](https://github.com/navin-moorthy/vscode-css-snippets/issues/23)) ([f44f3d7](https://github.com/navin-moorthy/vscode-css-snippets/commit/f44f3d7c8d076ee1c26c47152eed787a7c8c3b35)), closes [#22](https://github.com/navin-moorthy/vscode-css-snippets/issues/22)
+* **readme:** 📝  add attributions with links ([#25](https://github.com/navin-moorthy/vscode-css-snippets/issues/25)) ([ffe0c1e](https://github.com/navin-moorthy/vscode-css-snippets/commit/ffe0c1edd1b3d8a7c2202aae1fe584fff3ec96c6)), closes [#24](https://github.com/navin-moorthy/vscode-css-snippets/issues/24)
+
+
+### ♻️ Chores
+
+* **changelog:** ✏️  remove double generated changelog ([a9d3f87](https://github.com/navin-moorthy/vscode-css-snippets/commit/a9d3f87e7b2c53d571df0613245bd578218436d5))
+
+
+
+
+
+# [0.2.0](https://github.com/navin-moorthy/vscode-css-snippets/compare/v0.1.2...v0.2.0) (2020-07-20)
+
+
+### ✨ Features
+
+* **snippets:** ✨  add 1linelayouts to the snippets list ([#19](https://github.com/navin-moorthy/vscode-css-snippets/issues/19)) ([1bacd02](https://github.com/navin-moorthy/vscode-css-snippets/commit/1bacd0218eb422fc5e03844b1955c278eeed148d)), closes [#18](https://github.com/navin-moorthy/vscode-css-snippets/issues/18)
+
+
+### 📚 Documentation
+
+* **readme:** ✏️  add https gif and fix typo in description ([#21](https://github.com/navin-moorthy/vscode-css-snippets/issues/21)) ([bac3b45](https://github.com/navin-moorthy/vscode-css-snippets/commit/bac3b450466b5243e8bfe6cce7a75259d1388805)), closes [#20](https://github.com/navin-moorthy/vscode-css-snippets/issues/20)
+* **readme:** ✏️  change highlight to template literals ([#23](https://github.com/navin-moorthy/vscode-css-snippets/issues/23)) ([f44f3d7](https://github.com/navin-moorthy/vscode-css-snippets/commit/f44f3d7c8d076ee1c26c47152eed787a7c8c3b35)), closes [#22](https://github.com/navin-moorthy/vscode-css-snippets/issues/22)
+* **readme:** 📝  add attributions with links ([#25](https://github.com/navin-moorthy/vscode-css-snippets/issues/25)) ([ffe0c1e](https://github.com/navin-moorthy/vscode-css-snippets/commit/ffe0c1edd1b3d8a7c2202aae1fe584fff3ec96c6)), closes [#24](https://github.com/navin-moorthy/vscode-css-snippets/issues/24)
+
+
+### ♻️ Chores
+
+* **changelog:** ✏️  remove double generated changelog ([a9d3f87](https://github.com/navin-moorthy/vscode-css-snippets/commit/a9d3f87e7b2c53d571df0613245bd578218436d5))
+
+
+
+
+
 ## [0.1.2](https://github.com/navin-moorthy/vscode-css-snippets/compare/v0.1.1...v0.1.2) (2020-07-19)
 
 
