@@ -1,0 +1,58 @@
+{
+  "Super Centered": {
+    "prefix": "super-centered",
+    "body": ["place-items: center;", ""],
+    "description": "Super Centered"
+  },
+  "The Deconstructed Pancake": {
+    "prefix": "deconstructed-pancake",
+    "body": ["flex: 0 1 ${1:baseWidth};", "${0}"],
+    "description": "The Deconstructed Pancake"
+  },
+  "Sidebar Says": {
+    "prefix": "sidebar-says",
+    "body": [
+      "grid-template-columns: minmax(${1:min}, ${2:max}) ${3:...};",
+      "${0}"
+    ],
+    "description": "Sidebar Says"
+  },
+  "Pancake Stack": {
+    "prefix": "pancake-stack",
+    "body": ["grid-template-rows: auto 1fr auto;", ""],
+    "description": "Pancake Stack"
+  },
+  "Classic Holy Grail Layout": {
+    "prefix": "classic-holy-grail-layout",
+    "body": ["grid-template: auto 1fr auto / auto 1fr auto;", ""],
+    "description": "Classic Holy Grail Layout"
+  },
+  "12-Span Grid": {
+    "prefix": "12-span-grid",
+    "body": ["grid-template-columns: repeat(12, 1fr);", ""],
+    "description": "12-Span Grid"
+  },
+  "RAM (Repeat, Auto, Minmax)": {
+    "prefix": "ram",
+    "body": [
+      "grid-template-columns: repeat(auto-fit, minmax(${1:base}, 1fr));",
+      "${0}"
+    ],
+    "description": "RAM (Repeat, Auto, Minmax)"
+  },
+  "Line Up": {
+    "prefix": "line-up",
+    "body": ["justify-content: space-between;", ""],
+    "description": "Line Up"
+  },
+  "Clamping My Style": {
+    "prefix": "clamping-my-style",
+    "body": ["clamp(${1:min}, ${2:actual}, ${3:max});", "${0}"],
+    "description": "Clamping My Style"
+  },
+  "Respect for Aspect": {
+    "prefix": "respect-for-aspect",
+    "body": ["aspect-ratio: ${1:width} / ${2:height};", "${0}"],
+    "description": "Respect for Aspect"
+  }
+}
