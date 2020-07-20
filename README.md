@@ -4,8 +4,9 @@
 
 ## Description
 
-Collection of CSS Snippets to make your life easier by auto-completing css rules
-based on popular CSS Library - [Tailwind](https://tailwindcss.com/) and
+Collection of CSS Snippets to make your life easier by auto-completing
+[common](#common) css rules, [Tailwind](https://tailwindcss.com/) utility
+rules - [Tailwind](#tailwind-layout) and
 [1 line layouts](https://1linelayouts.glitch.me/)
 
 It's not debatable, most of us got used to utility classes from
@@ -56,11 +57,12 @@ You can enable tab completion (recommended) by opening
       - [Top / Right / Bottom / Left](#top--right--bottom--left)
       - [Visibility](#visibility)
       - [Z-Index](#z-index)
+    - [1 line layouts](#1-line-layouts)
+  - [Extra Guides](#extra-guides)
+    - [Snippets generation from Selected line/lines](#snippets-generation-from-selected-linelines)
   - [Contributing](#contributing)
 
 ## Snippets
-
-**[See how to utilize snippets marked with `selected` →](https://raw.githubusercontent.com/navin-moorthy/vscode-css-snippets/master/media/selected-guide.gif)**
 
 ### Common
 
@@ -87,20 +89,20 @@ You can enable tab completion (recommended) by opening
 
 #### [Breakpoints](https://tailwindcss.com/docs/breakpoints)
 
-| Snippet            | Purpose                                                                                   |
-| ------------------ | ----------------------------------------------------------------------------------------- |
-| `resp`             | Get all tailwind breakpoints - 640px - 768px - 1024px - 1280px                            |
-| `resp-sm`          | Get tailwind breakpoint - sm - 640px                                                      |
-| `resp-md`          | Get tailwind breakpoint - md - 768px                                                      |
-| `resp-lg`          | Get tailwind breakpoint - lg - 1024px                                                     |
-| `resp-xl`          | Get tailwind breakpoint - xl - 1280px                                                     |
-| `resp-selected`    | Get all tailwind breakpoints for selected class/classes - 640px - 768px - 1024px - 1280px |
-| `resp-sm-selected` | Get tailwind breakpoint for selected class/classes - sm - 640px                           |
-| `resp-md-selected` | Get tailwind breakpoint for selected class/classes - md - 768px                           |
-| `resp-lg-selected` | Get tailwind breakpoint for selected class/classes - lg - 1024px                          |
-| `resp-xl-selected` | Get tailwind breakpoint for selected class/classes - xl - 1280px                          |
+| Snippet            | Purpose                                                                                                                                             |
+| ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `resp`             | Get all tailwind breakpoints - 640px - 768px - 1024px - 1280px                                                                                      |
+| `resp-sm`          | Get tailwind breakpoint - sm - 640px                                                                                                                |
+| `resp-md`          | Get tailwind breakpoint - md - 768px                                                                                                                |
+| `resp-lg`          | Get tailwind breakpoint - lg - 1024px                                                                                                               |
+| `resp-xl`          | Get tailwind breakpoint - xl - 1280px                                                                                                               |
+| `resp-selected`    | Get all tailwind breakpoints for selected class/classes - 640px - 768px - 1024px - 1280px [See how →](#snippets-generation-from-selected-linelines) |
+| `resp-sm-selected` | Get tailwind breakpoint for selected class/classes - sm - 640px [See how →](#snippets-generation-from-selected-linelines)                           |
+| `resp-md-selected` | Get tailwind breakpoint for selected class/classes - md - 768px [See how →](#snippets-generation-from-selected-linelines)                           |
+| `resp-lg-selected` | Get tailwind breakpoint for selected class/classes - lg - 1024px [See how →](#snippets-generation-from-selected-linelines)                          |
+| `resp-xl-selected` | Get tailwind breakpoint for selected class/classes - xl - 1280px [See how →](#snippets-generation-from-selected-linelines)                          |
 
-### Tailwind Layout
+### [Tailwind](https://tailwindcss.com/) Layout
 
 #### [Container](https://tailwindcss.com/docs/container)
 
@@ -255,6 +257,31 @@ You can enable tab completion (recommended) by opening
 | `z-40`   | z-index: 40;   |
 | `z-50`   | z-index: 50;   |
 | `z-auto` | z-index: auto; |
+
+### [1 line layouts](https://1linelayouts.glitch.me/)
+
+**[Learn 1linelayouts in detail from Web Dev →](https://web.dev/one-line-layouts/)**
+
+![1 line layout usage](media/1linelayouts.gif)
+
+| Snippet                     | Purpose                                                       |
+| --------------------------- | ------------------------------------------------------------- |
+| `super-centered`            | place-items: center;                                          |
+| `deconstructed-pancake`     | flex: 0 1 <baseWidth>};                                       |
+| `sidebar-says`              | grid-template-columns: minmax(<min>, <max>) ...};             |
+| `pancake-stack`             | grid-template-rows: auto 1fr auto;                            |
+| `classic-holy-grail-layout` | grid-template: auto 1fr auto / auto 1fr auto;                 |
+| `12-span-grid`              | grid-template-columns: repeat(12, 1fr);                       |
+| `ram`                       | grid-template-columns: repeat(auto-fit, minmax(<base>, 1fr)); |
+| `line-up`                   | justify-content: space-between;                               |
+| `clamping-my-style`         | clamp(<min>, <actual>, <max>);                                |
+| `respect-for-aspect`        | aspect-ratio: <width> / <height>};                            |
+
+## Extra Guides
+
+### Snippets generation from Selected line/lines
+
+![Guide on how to utilize selected lines in snippets](https://raw.githubusercontent.com/navin-moorthy/vscode-css-snippets/master/media/selected-guide.gif)
 
 ## Contributing
 
