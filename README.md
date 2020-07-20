@@ -6,8 +6,7 @@
 
 Collection of CSS Snippets to make your life easier by auto-completing
 [common](#common) css rules, Tailwind utility classes as css rules -
-[Tailwind](#tailwind-layout) and
-[1 line layouts](https://1linelayouts.glitch.me/)
+[Tailwind](#tailwind-layout) and [1 line layouts](#1-line-layouts)
 
 It's not debatable, most of us got used to utility classes from
 [Tailwind](https://tailwindcss.com/), [BootStrap](https://getbootstrap.com/)
@@ -322,5 +321,5 @@ for detailed guidance.
 - [Chakra UI](https://github.com/chakra-ui/chakra-ui/blob/master/CONTRIBUTING.md)
   by [Segun Adebayo](https://twitter.com/thesegunadebayo)
 
-**Huge thanks :pray:** to _above wonderful persons_ for creating awesome
-projects which helped me build this project.
+**Huge thanks 🙏:** to _above wonderful persons_ for creating awesome projects
+which helped me build this project.
