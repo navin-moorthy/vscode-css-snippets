@@ -3,6 +3,38 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.2.1](https://github.com/navin-moorthy/vscode-css-snippets/compare/v0.2.0...v0.2.1) (2020-07-20)
+
+
+### 📚 Documentation
+
+* **readme:** ✏️  fix emoji and local navigation ([a6b5a0d](https://github.com/navin-moorthy/vscode-css-snippets/commit/a6b5a0db87f0cc58f1a263417481a36f08c1bdd1))
+
+
+### ♻️ Chores
+
+* **changelog:** ✏️  fix double generated changelog ([e69de86](https://github.com/navin-moorthy/vscode-css-snippets/commit/e69de863cc2400c4ff6edf40369995d18e28e3cd))
+
+
+
+
+
+## [0.2.1](https://github.com/navin-moorthy/vscode-css-snippets/compare/v0.2.0...v0.2.1) (2020-07-20)
+
+
+### 📚 Documentation
+
+* **readme:** ✏️  fix emoji and local navigation ([a6b5a0d](https://github.com/navin-moorthy/vscode-css-snippets/commit/a6b5a0db87f0cc58f1a263417481a36f08c1bdd1))
+
+
+### ♻️ Chores
+
+* **changelog:** ✏️  fix double generated changelog ([e69de86](https://github.com/navin-moorthy/vscode-css-snippets/commit/e69de863cc2400c4ff6edf40369995d18e28e3cd))
+
+
+
+
+
 # [0.2.0](https://github.com/navin-moorthy/vscode-css-snippets/compare/v0.1.2...v0.2.0) (2020-07-20)
 
 
