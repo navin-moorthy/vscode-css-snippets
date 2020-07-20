@@ -74,18 +74,18 @@ You can enable tab completion (recommended) by opening
 
 #### Pseudo Styles
 
-| Snippet     | Purpose         |
-| ----------- | --------------- |
-| `hover`     | :hover          |
-| `focus`     | :focus          |
-| `active`    | :active         |
-| `disabled`  | :disabled       |
-| `visited`   | :visited        |
-| `first`     | :first-child    |
-| `last`      | :last-child     |
-| `even`      | :nth-child(2n)  |
-| `odd`       | :nth-child(odd) |
-| `nth-child` | :nth-child()    |
+| Snippet     | Purpose            |
+| ----------- | ------------------ |
+| `hover`     | :hover             |
+| `focus`     | :focus             |
+| `active`    | :active            |
+| `disabled`  | :disabled          |
+| `visited`   | :visited           |
+| `first`     | :first-child       |
+| `last`      | :last-child        |
+| `even`      | :nth-child(2n)     |
+| `odd`       | :nth-child(odd)    |
+| `nth-child` | :nth-child(`rule`) |
 
 #### [Breakpoints](https://tailwindcss.com/docs/breakpoints)
 
@@ -267,15 +267,15 @@ You can enable tab completion (recommended) by opening
 | Snippet                     | Purpose                                                       |
 | --------------------------- | ------------------------------------------------------------- |
 | `super-centered`            | place-items: center;                                          |
-| `deconstructed-pancake`     | flex: 0 1 <baseWidth>};                                       |
-| `sidebar-says`              | grid-template-columns: minmax(<min>, <max>) ...};             |
+| `deconstructed-pancake`     | flex: 0 1 `baseWidth`};                                       |
+| `sidebar-says`              | grid-template-columns: minmax(`min`, `max`) `...`};           |
 | `pancake-stack`             | grid-template-rows: auto 1fr auto;                            |
 | `classic-holy-grail-layout` | grid-template: auto 1fr auto / auto 1fr auto;                 |
 | `12-span-grid`              | grid-template-columns: repeat(12, 1fr);                       |
-| `ram`                       | grid-template-columns: repeat(auto-fit, minmax(<base>, 1fr)); |
+| `ram`                       | grid-template-columns: repeat(auto-fit, minmax(`base`, 1fr)); |
 | `line-up`                   | justify-content: space-between;                               |
-| `clamping-my-style`         | clamp(<min>, <actual>, <max>);                                |
-| `respect-for-aspect`        | aspect-ratio: <width> / <height>};                            |
+| `clamping-my-style`         | clamp(`min`, `actual`, `max`);                                |
+| `respect-for-aspect`        | aspect-ratio: `width` / `height`};                            |
 
 ## Extra Guides
 
