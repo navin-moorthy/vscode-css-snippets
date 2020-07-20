@@ -61,6 +61,7 @@ You can enable tab completion (recommended) by opening
   - [Extra Guides](#extra-guides)
     - [Snippets generation from Selected line/lines](#snippets-generation-from-selected-linelines)
   - [Contributing](#contributing)
+  - [Attributions](#attributions)
 
 ## Snippets
 
@@ -293,3 +294,33 @@ Snippets which you think will help others increase their productivity.
 See
 [Contributing Docs →](https://github.com/navin-moorthy/vscode-css-snippets/blob/master/CONTRIBUTING.md)
 for detailed guidance.
+
+## Attributions
+
+**Snippet Ideation:**
+
+- [Tailwind](https://tailwindcss.com/) by
+  [Adam Wathan](https://twitter.com/adamwathan) and
+  [Steve Schoger](https://twitter.com/steveschoger)
+- [1linelayouts](https://1linelayouts.glitch.me/) by
+  [Una Kravets 👩🏻‍💻](https://twitter.com/Una)
+
+**Snippet Generation:**
+
+- [Snippet Generator](https://snippet-generator.app/) by
+  [Paweł Grzybek](https://twitter.com/pawelgrzybek)
+
+**Docs Inspiration:**
+
+- [Vue VSCode Snippets](https://github.com/sdras/vue-vscode-snippets/blob/master/README.md)
+  by [Sarah Drasner](https://twitter.com/sarah_edo)
+- [Tailwind Intellisense](https://github.com/tailwindcss/intellisense) by
+  [Brad Cornes](https://twitter.com/bradlc)
+
+**Contributing Inspiration:**
+
+- [Chakra UI](https://github.com/chakra-ui/chakra-ui/blob/master/CONTRIBUTING.md)
+  by [Segun Adebayo](https://twitter.com/thesegunadebayo)
+
+**Huge thanks :pray:** to _above wonderful persons_ for creating awesome
+projects which helped me build this project.
