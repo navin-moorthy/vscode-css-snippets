@@ -5,8 +5,8 @@
 ## Description
 
 Collection of CSS Snippets to make your life easier by auto-completing
-[common](#common) css rules, [Tailwind](https://tailwindcss.com/) utility
-rules - [Tailwind](#tailwind-layout) and
+[common](#common) css rules, Tailwind utility classes as css rules -
+[Tailwind](#tailwind-layout) and
 [1 line layouts](https://1linelayouts.glitch.me/)
 
 It's not debatable, most of us got used to utility classes from
@@ -262,7 +262,7 @@ You can enable tab completion (recommended) by opening
 
 **[Learn 1linelayouts in detail from Web Dev →](https://web.dev/one-line-layouts/)**
 
-![1 line layout usage](media/1linelayouts.gif)
+![1 line layout usage](https://github.com/navin-moorthy/vscode-css-snippets/raw/master/media/1linelayouts.gif)
 
 | Snippet                     | Purpose                                                       |
 | --------------------------- | ------------------------------------------------------------- |
