@@ -1,0 +1,252 @@
+{
+  "order-12": {
+    "prefix": "order-12",
+    "body": ["order: 12;", ""],
+    "description": "order-12"
+  },
+  "order-11": {
+    "prefix": "order-11",
+    "body": ["order: 11;", ""],
+    "description": "order-11"
+  },
+  "order-10": {
+    "prefix": "order-10",
+    "body": ["order: 10;", ""],
+    "description": "order-10"
+  },
+  "order-9": {
+    "prefix": "order-9",
+    "body": ["order: 9;", ""],
+    "description": "order-9"
+  },
+  "order-8": {
+    "prefix": "order-8",
+    "body": ["order: 8;", ""],
+    "description": "order-8"
+  },
+  "order-7": {
+    "prefix": "order-7",
+    "body": ["order: 7;", ""],
+    "description": "order-7"
+  },
+  "order-6": {
+    "prefix": "order-6",
+    "body": ["order: 6;", ""],
+    "description": "order-6"
+  },
+  "order-5": {
+    "prefix": "order-5",
+    "body": ["order: 5;", ""],
+    "description": "order-5"
+  },
+  "order-4": {
+    "prefix": "order-4",
+    "body": ["order: 4;", ""],
+    "description": "order-4"
+  },
+  "order-3": {
+    "prefix": "order-3",
+    "body": ["order: 3;", ""],
+    "description": "order-3"
+  },
+  "order-2": {
+    "prefix": "order-2",
+    "body": ["order: 2;", ""],
+    "description": "order-2"
+  },
+  "order-1": {
+    "prefix": "order-1",
+    "body": ["order: 1;", ""],
+    "description": "order-1"
+  },
+  "order-last": {
+    "prefix": "order-last",
+    "body": ["order: 9999;", ""],
+    "description": "order-last"
+  },
+  "order-first": {
+    "prefix": "order-first",
+    "body": ["order: -9999;", ""],
+    "description": "order-first"
+  },
+  "order-none": {
+    "prefix": "order-none",
+    "body": ["order: 0;", ""],
+    "description": "order-none"
+  },
+  "flex-shrink-0": {
+    "prefix": "flex-shrink-0",
+    "body": ["flex-shrink: 0;", ""],
+    "description": "flex-shrink-0"
+  },
+  "flex-shrink": {
+    "prefix": "flex-shrink",
+    "body": ["flex-shrink: 1;", ""],
+    "description": "flex-shrink"
+  },
+  "flex-grow-0": {
+    "prefix": "flex-grow-0",
+    "body": ["flex-grow: 0;", ""],
+    "description": "flex-grow-0"
+  },
+  "flex-grow": {
+    "prefix": "flex-grow",
+    "body": ["flex-grow: 1;", ""],
+    "description": "flex-grow"
+  },
+  "flex-none": {
+    "prefix": "flex-none",
+    "body": ["flex: none;", ""],
+    "description": "flex-none"
+  },
+  "flex-1": {
+    "prefix": "flex-1",
+    "body": ["flex: 1 1 0%;", ""],
+    "description": "flex-1"
+  },
+  "flex-initial": {
+    "prefix": "flex-initial",
+    "body": ["flex: 0 1 auto;", ""],
+    "description": "flex-initial"
+  },
+  "flex-auto": {
+    "prefix": "flex-auto",
+    "body": ["flex: 1 1 auto;", ""],
+    "description": "flex-auto"
+  },
+  "justify-around": {
+    "prefix": "justify-around",
+    "body": ["justify-content: space-around;", ""],
+    "description": "justify-around"
+  },
+  "justify-between": {
+    "prefix": "justify-between",
+    "body": ["justify-content: space-between;", ""],
+    "description": "justify-between"
+  },
+  "justify-end": {
+    "prefix": "justify-end",
+    "body": ["justify-content: flex-end;", ""],
+    "description": "justify-end"
+  },
+  "justify-start": {
+    "prefix": "justify-start",
+    "body": ["justify-content: flex-start;", ""],
+    "description": "justify-start"
+  },
+  "justify-center": {
+    "prefix": "justify-center",
+    "body": ["justify-content: center;", ""],
+    "description": "justify-center"
+  },
+  "content-around": {
+    "prefix": "content-around",
+    "body": ["align-content: space-around;", ""],
+    "description": "content-around"
+  },
+  "content-between": {
+    "prefix": "content-between",
+    "body": ["align-content: space-between;", ""],
+    "description": "content-between"
+  },
+  "content-end": {
+    "prefix": "content-end",
+    "body": ["align-content: flex-end;", ""],
+    "description": "content-end"
+  },
+  "content-start": {
+    "prefix": "content-start",
+    "body": ["align-content: flex-start;", ""],
+    "description": "content-start"
+  },
+  "content-center": {
+    "prefix": "content-center",
+    "body": ["align-content: center;", ""],
+    "description": "content-center"
+  },
+  "self-end": {
+    "prefix": "self-end",
+    "body": ["align-self: flex-end;", ""],
+    "description": "self-end"
+  },
+  "self-start": {
+    "prefix": "self-start",
+    "body": ["align-self: flex-start;", ""],
+    "description": "self-start"
+  },
+  "self-center": {
+    "prefix": "self-center",
+    "body": ["align-self: center;", ""],
+    "description": "self-center"
+  },
+  "self-auto": {
+    "prefix": "self-auto",
+    "body": ["align-self: auto;", ""],
+    "description": "self-auto"
+  },
+  "self-stretch": {
+    "prefix": "self-stretch",
+    "body": ["align-self: stretch;", ""],
+    "description": "self-stretch"
+  },
+  "items-end": {
+    "prefix": "items-end",
+    "body": ["align-items: flex-end;", ""],
+    "description": "items-end"
+  },
+  "items-start": {
+    "prefix": "items-start",
+    "body": ["align-items: flex-start;", ""],
+    "description": "items-start"
+  },
+  "items-center": {
+    "prefix": "items-center",
+    "body": ["align-items: center;", ""],
+    "description": "items-center"
+  },
+  "items-baseline": {
+    "prefix": "items-baseline",
+    "body": ["align-items: baseline;", ""],
+    "description": "items-baseline"
+  },
+  "items-stretch": {
+    "prefix": "items-stretch",
+    "body": ["align-items: stretch;", ""],
+    "description": "items-stretch"
+  },
+  "flex-wrap-reverse": {
+    "prefix": "flex-wrap-reverse",
+    "body": ["flex-wrap: wrap-reverse;", ""],
+    "description": "flex-wrap-reverse"
+  },
+  "flex-no-wrap": {
+    "prefix": "flex-no-wrap",
+    "body": ["flex-wrap: nowrap;", ""],
+    "description": "flex-no-wrap"
+  },
+  "flex-wrap": {
+    "prefix": "flex-wrap",
+    "body": ["flex-wrap: wrap;", ""],
+    "description": "flex-wrap"
+  },
+  "flex-col-reverse": {
+    "prefix": "flex-col-reverse",
+    "body": ["flex-direction: column-reverse;", ""],
+    "description": "flex-col-reverse"
+  },
+  "flex-row-reverse": {
+    "prefix": "flex-row-reverse",
+    "body": ["flex-direction: row-reverse;", ""],
+    "description": "flex-row-reverse"
+  },
+  "flex-col": {
+    "prefix": "flex-col",
+    "body": ["flex-direction: column;", ""],
+    "description": "flex-col"
+  },
+  "flex-row": {
+    "prefix": "flex-row",
+    "body": ["flex-direction: row;", ""],
+    "description": "flex-row"
+  }
+}
