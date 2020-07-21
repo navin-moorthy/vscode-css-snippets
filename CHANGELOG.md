@@ -3,6 +3,38 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.3.0](https://github.com/navin-moorthy/vscode-css-snippets/compare/v0.2.1...v0.3.0) (2020-07-21)
+
+
+### ✨ Features
+
+* **snippets:** ✨  add tailwind flexbox utilities ([#27](https://github.com/navin-moorthy/vscode-css-snippets/issues/27)) ([bbef38b](https://github.com/navin-moorthy/vscode-css-snippets/commit/bbef38bb89e589732b590ddf5adcf80910030afa)), closes [#26](https://github.com/navin-moorthy/vscode-css-snippets/issues/26) [#28](https://github.com/navin-moorthy/vscode-css-snippets/issues/28)
+
+
+### ♻️ Chores
+
+* **changelog:** ✏️  fix double generated changelog ([abe2a15](https://github.com/navin-moorthy/vscode-css-snippets/commit/abe2a158ee35ad3a2b1eab3e635734a29d1e95ce))
+
+
+
+
+
+# [0.3.0](https://github.com/navin-moorthy/vscode-css-snippets/compare/v0.2.1...v0.3.0) (2020-07-21)
+
+
+### ✨ Features
+
+* **snippets:** ✨  add tailwind flexbox utilities ([#27](https://github.com/navin-moorthy/vscode-css-snippets/issues/27)) ([bbef38b](https://github.com/navin-moorthy/vscode-css-snippets/commit/bbef38bb89e589732b590ddf5adcf80910030afa)), closes [#26](https://github.com/navin-moorthy/vscode-css-snippets/issues/26) [#28](https://github.com/navin-moorthy/vscode-css-snippets/issues/28)
+
+
+### ♻️ Chores
+
+* **changelog:** ✏️  fix double generated changelog ([abe2a15](https://github.com/navin-moorthy/vscode-css-snippets/commit/abe2a158ee35ad3a2b1eab3e635734a29d1e95ce))
+
+
+
+
+
 ## [0.2.1](https://github.com/navin-moorthy/vscode-css-snippets/compare/v0.2.0...v0.2.1) (2020-07-20)
 
 
