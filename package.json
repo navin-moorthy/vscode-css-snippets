@@ -45,6 +45,10 @@
       },
       {
         "language": "css",
+        "path": "./snippets/tailwind/flexbox.json"
+      },
+      {
+        "language": "css",
         "path": "./snippets/1linelayouts/snippets.json"
       },
       {
