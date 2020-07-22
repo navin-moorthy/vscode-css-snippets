@@ -49,6 +49,10 @@
       },
       {
         "language": "css",
+        "path": "./snippets/tailwind/grid.json"
+      },
+      {
+        "language": "css",
         "path": "./snippets/1linelayouts/snippets.json"
       },
       {
