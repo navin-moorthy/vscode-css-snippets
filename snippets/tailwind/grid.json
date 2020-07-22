@@ -1,0 +1,732 @@
+{
+  "grid-flow-col": {
+    "prefix": "grid-flow-col",
+    "body": ["grid-auto-flow: column;", ""],
+    "description": "grid-flow-col"
+  },
+  "grid-flow-col-dense": {
+    "prefix": "grid-flow-col-dense",
+    "body": ["grid-auto-flow: column dense;", ""],
+    "description": "grid-flow-col-dense"
+  },
+  "grid-flow-row-dense": {
+    "prefix": "grid-flow-row-dense",
+    "body": ["grid-auto-flow: row dense;", ""],
+    "description": "grid-flow-row-dense"
+  },
+  "grid-flow-row": {
+    "prefix": "grid-flow-row",
+    "body": ["grid-auto-flow: row;", ""],
+    "description": "grid-flow-row"
+  },
+  "col-gap-0": {
+    "prefix": "col-gap-0",
+    "body": ["column-gap: 0;", ""],
+    "description": "col-gap-0"
+  },
+  "col-gap-px": {
+    "prefix": "col-gap-px",
+    "body": ["column-gap: 1px;", ""],
+    "description": "col-gap-px"
+  },
+  "col-gap-1": {
+    "prefix": "col-gap-1",
+    "body": ["column-gap: 0.25rem;", ""],
+    "description": "col-gap-1"
+  },
+  "col-gap-2": {
+    "prefix": "col-gap-2",
+    "body": ["column-gap: 0.5rem;", ""],
+    "description": "col-gap-2"
+  },
+  "col-gap-3": {
+    "prefix": "col-gap-3",
+    "body": ["column-gap: 0.75rem;", ""],
+    "description": "col-gap-3"
+  },
+  "col-gap-4": {
+    "prefix": "col-gap-4",
+    "body": ["column-gap: 1rem;", ""],
+    "description": "col-gap-4"
+  },
+  "col-gap-5": {
+    "prefix": "col-gap-5",
+    "body": ["column-gap: 1.25rem;", ""],
+    "description": "col-gap-5"
+  },
+  "col-gap-6": {
+    "prefix": "col-gap-6",
+    "body": ["column-gap: 1.5rem;", ""],
+    "description": "col-gap-6"
+  },
+  "col-gap-8": {
+    "prefix": "col-gap-8",
+    "body": ["column-gap: 2rem;", ""],
+    "description": "col-gap-8"
+  },
+  "col-gap-10": {
+    "prefix": "col-gap-10",
+    "body": ["column-gap: 2.5rem;", ""],
+    "description": "col-gap-10"
+  },
+  "col-gap-12": {
+    "prefix": "col-gap-12",
+    "body": ["column-gap: 3rem;", ""],
+    "description": "col-gap-12"
+  },
+  "col-gap-16": {
+    "prefix": "col-gap-16",
+    "body": ["column-gap: 4rem;", ""],
+    "description": "col-gap-16"
+  },
+  "col-gap-20": {
+    "prefix": "col-gap-20",
+    "body": ["column-gap: 5rem;", ""],
+    "description": "col-gap-20"
+  },
+  "col-gap-24": {
+    "prefix": "col-gap-24",
+    "body": ["column-gap: 6rem;", ""],
+    "description": "col-gap-24"
+  },
+  "col-gap-32": {
+    "prefix": "col-gap-32",
+    "body": ["column-gap: 8rem;", ""],
+    "description": "col-gap-32"
+  },
+  "col-gap-40": {
+    "prefix": "col-gap-40",
+    "body": ["column-gap: 10rem;", ""],
+    "description": "col-gap-40"
+  },
+  "col-gap-48": {
+    "prefix": "col-gap-48",
+    "body": ["column-gap: 12rem;", ""],
+    "description": "col-gap-48"
+  },
+  "col-gap-56": {
+    "prefix": "col-gap-56",
+    "body": ["column-gap: 14rem;", ""],
+    "description": "col-gap-56"
+  },
+  "col-gap-64": {
+    "prefix": "col-gap-64",
+    "body": ["column-gap: 16rem;", ""],
+    "description": "col-gap-64"
+  },
+  "row-gap-0": {
+    "prefix": "row-gap-0",
+    "body": ["row-gap: 0;", ""],
+    "description": "row-gap-0"
+  },
+  "row-gap-px": {
+    "prefix": "row-gap-px",
+    "body": ["row-gap: 1px;", ""],
+    "description": "row-gap-px"
+  },
+  "row-gap-1": {
+    "prefix": "row-gap-1",
+    "body": ["row-gap: 0.25rem;", ""],
+    "description": "row-gap-1"
+  },
+  "row-gap-2": {
+    "prefix": "row-gap-2",
+    "body": ["row-gap: 0.5rem;", ""],
+    "description": "row-gap-2"
+  },
+  "row-gap-3": {
+    "prefix": "row-gap-3",
+    "body": ["row-gap: 0.75rem;", ""],
+    "description": "row-gap-3"
+  },
+  "row-gap-4": {
+    "prefix": "row-gap-4",
+    "body": ["row-gap: 1rem;", ""],
+    "description": "row-gap-4"
+  },
+  "row-gap-5": {
+    "prefix": "row-gap-5",
+    "body": ["row-gap: 1.25rem;", ""],
+    "description": "row-gap-5"
+  },
+  "row-gap-6": {
+    "prefix": "row-gap-6",
+    "body": ["row-gap: 1.5rem;", ""],
+    "description": "row-gap-6"
+  },
+  "row-gap-8": {
+    "prefix": "row-gap-8",
+    "body": ["row-gap: 2rem;", ""],
+    "description": "row-gap-8"
+  },
+  "row-gap-10": {
+    "prefix": "row-gap-10",
+    "body": ["row-gap: 2.5rem;", ""],
+    "description": "row-gap-10"
+  },
+  "row-gap-12": {
+    "prefix": "row-gap-12",
+    "body": ["row-gap: 3rem;", ""],
+    "description": "row-gap-12"
+  },
+  "row-gap-16": {
+    "prefix": "row-gap-16",
+    "body": ["row-gap: 4rem;", ""],
+    "description": "row-gap-16"
+  },
+  "row-gap-20": {
+    "prefix": "row-gap-20",
+    "body": ["row-gap: 5rem;", ""],
+    "description": "row-gap-20"
+  },
+  "row-gap-24": {
+    "prefix": "row-gap-24",
+    "body": ["row-gap: 6rem;", ""],
+    "description": "row-gap-24"
+  },
+  "row-gap-32": {
+    "prefix": "row-gap-32",
+    "body": ["row-gap: 8rem;", ""],
+    "description": "row-gap-32"
+  },
+  "row-gap-40": {
+    "prefix": "row-gap-40",
+    "body": ["row-gap: 10rem;", ""],
+    "description": "row-gap-40"
+  },
+  "row-gap-48": {
+    "prefix": "row-gap-48",
+    "body": ["row-gap: 12rem;", ""],
+    "description": "row-gap-48"
+  },
+  "row-gap-56": {
+    "prefix": "row-gap-56",
+    "body": ["row-gap: 14rem;", ""],
+    "description": "row-gap-56"
+  },
+  "row-gap-64": {
+    "prefix": "row-gap-64",
+    "body": ["row-gap: 16rem;", ""],
+    "description": "row-gap-64"
+  },
+
+  "gap-0": {
+    "prefix": "gap-0",
+    "body": ["gap: 0;", ""],
+    "description": "gap-0"
+  },
+  "gap-px": {
+    "prefix": "gap-px",
+    "body": ["gap: 1px;", ""],
+    "description": "gap-px"
+  },
+  "gap-1": {
+    "prefix": "gap-1",
+    "body": ["gap: 0.25rem;", ""],
+    "description": "gap-1"
+  },
+  "gap-2": {
+    "prefix": "gap-2",
+    "body": ["gap: 0.5rem;", ""],
+    "description": "gap-2"
+  },
+  "gap-3": {
+    "prefix": "gap-3",
+    "body": ["gap: 0.75rem;", ""],
+    "description": "gap-3"
+  },
+  "gap-4": {
+    "prefix": "gap-4",
+    "body": ["gap: 1rem;", ""],
+    "description": "gap-4"
+  },
+  "gap-5": {
+    "prefix": "gap-5",
+    "body": ["gap: 1.25rem;", ""],
+    "description": "gap-5"
+  },
+  "gap-6": {
+    "prefix": "gap-6",
+    "body": ["gap: 1.5rem;", ""],
+    "description": "gap-6"
+  },
+  "gap-8": {
+    "prefix": "gap-8",
+    "body": ["gap: 2rem;", ""],
+    "description": "gap-8"
+  },
+  "gap-10": {
+    "prefix": "gap-10",
+    "body": ["gap: 2.5rem;", ""],
+    "description": "gap-10"
+  },
+  "gap-12": {
+    "prefix": "gap-12",
+    "body": ["gap: 3rem;", ""],
+    "description": "gap-12"
+  },
+  "gap-16": {
+    "prefix": "gap-16",
+    "body": ["gap: 4rem;", ""],
+    "description": "gap-16"
+  },
+  "gap-20": {
+    "prefix": "gap-20",
+    "body": ["gap: 5rem;", ""],
+    "description": "gap-20"
+  },
+  "gap-24": {
+    "prefix": "gap-24",
+    "body": ["gap: 6rem;", ""],
+    "description": "gap-24"
+  },
+  "gap-32": {
+    "prefix": "gap-32",
+    "body": ["gap: 8rem;", ""],
+    "description": "gap-32"
+  },
+  "gap-40": {
+    "prefix": "gap-40",
+    "body": ["gap: 10rem;", ""],
+    "description": "gap-40"
+  },
+  "gap-48": {
+    "prefix": "gap-48",
+    "body": ["gap: 12rem;", ""],
+    "description": "gap-48"
+  },
+  "gap-56": {
+    "prefix": "gap-56",
+    "body": ["gap: 14rem;", ""],
+    "description": "gap-56"
+  },
+  "gap-64": {
+    "prefix": "gap-64",
+    "body": ["gap: 16rem;", ""],
+    "description": "gap-64"
+  },
+
+  "row-auto": {
+    "prefix": "row-auto",
+    "body": ["grid-row: auto;", ""],
+    "description": "row-auto"
+  },
+  "row-start-auto": {
+    "prefix": "row-start-auto",
+    "body": ["grid-row-start: auto;", ""],
+    "description": "row-start-auto"
+  },
+  "row-end-auto": {
+    "prefix": "row-end-auto",
+    "body": ["grid-row-end: auto;", ""],
+    "description": "row-end-auto"
+  },
+  "row-end-7": {
+    "prefix": "row-end-7",
+    "body": ["grid-row-end: 7;", ""],
+    "description": "row-end-7"
+  },
+  "row-end-6": {
+    "prefix": "row-end-6",
+    "body": ["grid-row-end: 6;", ""],
+    "description": "row-end-6"
+  },
+  "row-end-5": {
+    "prefix": "row-end-5",
+    "body": ["grid-row-end: 5;", ""],
+    "description": "row-end-5"
+  },
+  "row-end-4": {
+    "prefix": "row-end-4",
+    "body": ["grid-row-end: 4;", ""],
+    "description": "row-end-4"
+  },
+  "row-end-3": {
+    "prefix": "row-end-3",
+    "body": ["grid-row-end: 3;", ""],
+    "description": "row-end-3"
+  },
+  "row-end-2": {
+    "prefix": "row-end-2",
+    "body": ["grid-row-end: 2;", ""],
+    "description": "row-end-2"
+  },
+  "row-end-1": {
+    "prefix": "row-end-1",
+    "body": ["grid-row-end: 1;", ""],
+    "description": "row-end-1"
+  },
+  "row-start-7": {
+    "prefix": "row-start-7",
+    "body": ["grid-row-start: 7;", ""],
+    "description": "row-start-7"
+  },
+  "row-start-6": {
+    "prefix": "row-start-6",
+    "body": ["grid-row-start: 6;", ""],
+    "description": "row-start-6"
+  },
+  "row-start-5": {
+    "prefix": "row-start-5",
+    "body": ["grid-row-start: 5;", ""],
+    "description": "row-start-5"
+  },
+  "row-start-4": {
+    "prefix": "row-start-4",
+    "body": ["grid-row-start: 4;", ""],
+    "description": "row-start-4"
+  },
+  "row-start-3": {
+    "prefix": "row-start-3",
+    "body": ["grid-row-start: 3;", ""],
+    "description": "row-start-3"
+  },
+  "row-start-2": {
+    "prefix": "row-start-2",
+    "body": ["grid-row-start: 2;", ""],
+    "description": "row-start-2"
+  },
+  "row-start-1": {
+    "prefix": "row-start-1",
+    "body": ["grid-row-start: 1;", ""],
+    "description": "row-start-1"
+  },
+  "row-span-6": {
+    "prefix": "row-span-6",
+    "body": ["grid-row: span 6 / span 6;", ""],
+    "description": "row-span-6"
+  },
+  "row-span-5": {
+    "prefix": "row-span-5",
+    "body": ["grid-row: span 5 / span 5;", ""],
+    "description": "row-span-5"
+  },
+  "row-span-4": {
+    "prefix": "row-span-4",
+    "body": ["grid-row: span 4 / span 4;", ""],
+    "description": "row-span-4"
+  },
+  "row-span-3": {
+    "prefix": "row-span-3",
+    "body": ["grid-row: span 3 / span 3;", ""],
+    "description": "row-span-3"
+  },
+  "row-span-2": {
+    "prefix": "row-span-2",
+    "body": ["grid-row: span 2 / span 2;", ""],
+    "description": "row-span-2"
+  },
+  "row-span-1": {
+    "prefix": "row-span-1",
+    "body": ["grid-row: span 1 / span 1;", ""],
+    "description": "row-span-1"
+  },
+
+  "grid-rows-6": {
+    "prefix": "grid-rows-6",
+    "body": ["grid-template-rows: repeat(6, minmax(0, 1fr));", ""],
+    "description": "grid-rows-6"
+  },
+  "grid-rows-5": {
+    "prefix": "grid-rows-5",
+    "body": ["grid-template-rows: repeat(5, minmax(0, 1fr));", ""],
+    "description": "grid-rows-5"
+  },
+  "grid-rows-4": {
+    "prefix": "grid-rows-4",
+    "body": ["grid-template-rows: repeat(4, minmax(0, 1fr));", ""],
+    "description": "grid-rows-4"
+  },
+  "grid-rows-3": {
+    "prefix": "grid-rows-3",
+    "body": ["grid-template-rows: repeat(3, minmax(0, 1fr));", ""],
+    "description": "grid-rows-3"
+  },
+  "grid-rows-2": {
+    "prefix": "grid-rows-2",
+    "body": ["grid-template-rows: repeat(2, minmax(0, 1fr));", ""],
+    "description": "grid-rows-2"
+  },
+  "grid-rows-1": {
+    "prefix": "grid-rows-1",
+    "body": ["grid-template-rows: repeat(1, minmax(0, 1fr));", ""],
+    "description": "grid-rows-1"
+  },
+
+  "col-auto": {
+    "prefix": "col-auto",
+    "body": ["grid-column: auto;", ""],
+    "description": "col-auto"
+  },
+  "col-start-auto": {
+    "prefix": "col-start-auto",
+    "body": ["grid-column-start: auto;", ""],
+    "description": "col-start-auto"
+  },
+  "col-end-auto": {
+    "prefix": "col-end-auto",
+    "body": ["grid-column-end: auto;", ""],
+    "description": "col-end-auto"
+  },
+  "col-end-13": {
+    "prefix": "col-end-13",
+    "body": ["grid-column-end: 13;", ""],
+    "description": "col-end-13"
+  },
+  "col-end-12": {
+    "prefix": "col-end-12",
+    "body": ["grid-column-end: 12;", ""],
+    "description": "col-end-12"
+  },
+  "col-end-11": {
+    "prefix": "col-end-11",
+    "body": ["grid-column-end: 11;", ""],
+    "description": "col-end-11"
+  },
+  "col-end-10": {
+    "prefix": "col-end-10",
+    "body": ["grid-column-end: 10;", ""],
+    "description": "col-end-10"
+  },
+  "col-end-9": {
+    "prefix": "col-end-9",
+    "body": ["grid-column-end: 9;", ""],
+    "description": "col-end-9"
+  },
+  "col-end-8": {
+    "prefix": "col-end-8",
+    "body": ["grid-column-end: 8;", ""],
+    "description": "col-end-8"
+  },
+  "col-end-7": {
+    "prefix": "col-end-7",
+    "body": ["grid-column-end: 7;", ""],
+    "description": "col-end-7"
+  },
+  "col-end-6": {
+    "prefix": "col-end-6",
+    "body": ["grid-column-end: 6;", ""],
+    "description": "col-end-6"
+  },
+  "col-end-5": {
+    "prefix": "col-end-5",
+    "body": ["grid-column-end: 5;", ""],
+    "description": "col-end-5"
+  },
+  "col-end-4": {
+    "prefix": "col-end-4",
+    "body": ["grid-column-end: 4;", ""],
+    "description": "col-end-4"
+  },
+  "col-end-3": {
+    "prefix": "col-end-3",
+    "body": ["grid-column-end: 3;", ""],
+    "description": "col-end-3"
+  },
+  "col-end-2": {
+    "prefix": "col-end-2",
+    "body": ["grid-column-end: 2;", ""],
+    "description": "col-end-2"
+  },
+  "col-end-1": {
+    "prefix": "col-end-1",
+    "body": ["grid-column-end: 1;", ""],
+    "description": "col-end-1"
+  },
+  "col-start-13": {
+    "prefix": "col-start-13",
+    "body": ["grid-column-start: 13;", ""],
+    "description": "col-start-13"
+  },
+  "col-start-12": {
+    "prefix": "col-start-12",
+    "body": ["grid-column-start: 12;", ""],
+    "description": "col-start-12"
+  },
+  "col-start-11": {
+    "prefix": "col-start-11",
+    "body": ["grid-column-start: 11;", ""],
+    "description": "col-start-11"
+  },
+  "col-start-10": {
+    "prefix": "col-start-10",
+    "body": ["grid-column-start: 10;", ""],
+    "description": "col-start-10"
+  },
+  "col-start-9": {
+    "prefix": "col-start-9",
+    "body": ["grid-column-start: 9;", ""],
+    "description": "col-start-9"
+  },
+  "col-start-8": {
+    "prefix": "col-start-8",
+    "body": ["grid-column-start: 8;", ""],
+    "description": "col-start-8"
+  },
+  "col-start-7": {
+    "prefix": "col-start-7",
+    "body": ["grid-column-start: 7;", ""],
+    "description": "col-start-7"
+  },
+  "col-start-6": {
+    "prefix": "col-start-6",
+    "body": ["grid-column-start: 6;", ""],
+    "description": "col-start-6"
+  },
+  "col-start-5": {
+    "prefix": "col-start-5",
+    "body": ["grid-column-start: 5;", ""],
+    "description": "col-start-5"
+  },
+  "col-start-4": {
+    "prefix": "col-start-4",
+    "body": ["grid-column-start: 4;", ""],
+    "description": "col-start-4"
+  },
+  "col-start-3": {
+    "prefix": "col-start-3",
+    "body": ["grid-column-start: 3;", ""],
+    "description": "col-start-3"
+  },
+  "col-start-2": {
+    "prefix": "col-start-2",
+    "body": ["grid-column-start: 2;", ""],
+    "description": "col-start-2"
+  },
+  "col-start-1": {
+    "prefix": "col-start-1",
+    "body": ["grid-column-start: 1;", ""],
+    "description": "col-start-1"
+  },
+  "col-span-12": {
+    "prefix": "col-span-12",
+    "body": ["grid-column: span 12 / span 12;", ""],
+    "description": "col-span-12"
+  },
+  "col-span-11": {
+    "prefix": "col-span-11",
+    "body": ["grid-column: span 11 / span 11;", ""],
+    "description": "col-span-11"
+  },
+  "col-span-10": {
+    "prefix": "col-span-10",
+    "body": ["grid-column: span 10 / span 10;", ""],
+    "description": "col-span-10"
+  },
+  "col-span-9": {
+    "prefix": "col-span-9",
+    "body": ["grid-column: span 9 / span 9;", ""],
+    "description": "col-span-9"
+  },
+  "col-span-8": {
+    "prefix": "col-span-8",
+    "body": ["grid-column: span 8 / span 8;", ""],
+    "description": "col-span-8"
+  },
+  "col-span-7": {
+    "prefix": "col-span-7",
+    "body": ["grid-column: span 7 / span 7;", ""],
+    "description": "col-span-7"
+  },
+  "col-span-6": {
+    "prefix": "col-span-6",
+    "body": ["grid-column: span 6 / span 6;", ""],
+    "description": "col-span-6"
+  },
+  "col-span-5": {
+    "prefix": "col-span-5",
+    "body": ["grid-column: span 5 / span 5;", ""],
+    "description": "col-span-5"
+  },
+  "col-span-4": {
+    "prefix": "col-span-4",
+    "body": ["grid-column: span 4 / span 4;", ""],
+    "description": "col-span-4"
+  },
+  "col-span-3": {
+    "prefix": "col-span-3",
+    "body": ["grid-column: span 3 / span 3;", ""],
+    "description": "col-span-3"
+  },
+  "col-span-2": {
+    "prefix": "col-span-2",
+    "body": ["grid-column: span 2 / span 2;", ""],
+    "description": "col-span-2"
+  },
+  "col-span-1": {
+    "prefix": "col-span-1",
+    "body": ["grid-column: span 1 / span 1;", ""],
+    "description": "col-span-1"
+  },
+
+  "grid-cols-none": {
+    "prefix": "grid-cols-none",
+    "body": ["grid-template-columns: none;", ""],
+    "description": "grid-cols-none"
+  },
+  "grid-rows-none": {
+    "prefix": "grid-rows-none",
+    "body": ["grid-template-rows: none;", ""],
+    "description": "grid-rows-none"
+  },
+  "grid-cols-12": {
+    "prefix": "grid-cols-12",
+    "body": ["grid-template-columns: repeat(12, minmax(0, 1fr));", ""],
+    "description": "grid-cols-12"
+  },
+  "grid-cols-11": {
+    "prefix": "grid-cols-11",
+    "body": ["grid-template-columns: repeat(11, minmax(0, 1fr));", ""],
+    "description": "grid-cols-11"
+  },
+  "grid-cols-10": {
+    "prefix": "grid-cols-10",
+    "body": ["grid-template-columns: repeat(10, minmax(0, 1fr));", ""],
+    "description": "grid-cols-10"
+  },
+  "grid-cols-9": {
+    "prefix": "grid-cols-9",
+    "body": ["grid-template-columns: repeat(9, minmax(0, 1fr));", ""],
+    "description": "grid-cols-9"
+  },
+  "grid-cols-8": {
+    "prefix": "grid-cols-8",
+    "body": ["grid-template-columns: repeat(8, minmax(0, 1fr));", ""],
+    "description": "grid-cols-8"
+  },
+  "grid-cols-7": {
+    "prefix": "grid-cols-7",
+    "body": ["grid-template-columns: repeat(7, minmax(0, 1fr));", ""],
+    "description": "grid-cols-7"
+  },
+  "grid-cols-6": {
+    "prefix": "grid-cols-6",
+    "body": ["grid-template-columns: repeat(6, minmax(0, 1fr));", ""],
+    "description": "grid-cols-6"
+  },
+  "grid-cols-5": {
+    "prefix": "grid-cols-5",
+    "body": ["grid-template-columns: repeat(5, minmax(0, 1fr));", ""],
+    "description": "grid-cols-5"
+  },
+  "grid-cols-4": {
+    "prefix": "grid-cols-4",
+    "body": ["grid-template-columns: repeat(4, minmax(0, 1fr));", ""],
+    "description": "grid-cols-4"
+  },
+  "grid-cols-3": {
+    "prefix": "grid-cols-3",
+    "body": ["grid-template-columns: repeat(3, minmax(0, 1fr));", ""],
+    "description": "grid-cols-3"
+  },
+  "grid-cols-2": {
+    "prefix": "grid-cols-2",
+    "body": ["grid-template-columns: repeat(2, minmax(0, 1fr));", ""],
+    "description": "grid-cols-2"
+  },
+  "grid-cols-1": {
+    "prefix": "grid-cols-1",
+    "body": ["grid-template-columns: repeat(1, minmax(0, 1fr));", ""],
+    "description": "grid-cols-1"
+  }
+}
