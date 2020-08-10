@@ -53,6 +53,10 @@
       },
       {
         "language": "css",
+        "path": "./snippets/tailwind/spacing.json"
+      },
+      {
+        "language": "css",
         "path": "./snippets/1linelayouts/snippets.json"
       },
       {

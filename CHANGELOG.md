@@ -14,17 +14,6 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [0.4.0](https://github.com/navin-moorthy/vscode-css-snippets/compare/v0.3.0...v0.4.0) (2020-07-22)
-
-
-### ✨ Features
-
-* **snippets:** ✨  add tailwind grid snippets ([#30](https://github.com/navin-moorthy/vscode-css-snippets/issues/30)) ([bc2bd84](https://github.com/navin-moorthy/vscode-css-snippets/commit/bc2bd847bc1ba6c850d549670db19256b651be2d)), closes [#29](https://github.com/navin-moorthy/vscode-css-snippets/issues/29)
-
-
-
-
-
 # [0.3.0](https://github.com/navin-moorthy/vscode-css-snippets/compare/v0.2.1...v0.3.0) (2020-07-21)
 
 
