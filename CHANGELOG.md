@@ -3,6 +3,32 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.5.0](https://github.com/navin-moorthy/vscode-css-snippets/compare/v0.4.0...v0.5.0) (2020-08-10)
+
+
+### ✨ Features
+
+* **snippets:** ✨  add tailwind spacing - margin snippets ([#32](https://github.com/navin-moorthy/vscode-css-snippets/issues/32)) ([65e455e](https://github.com/navin-moorthy/vscode-css-snippets/commit/65e455e8be0d85d6b85bb9bbcd9352a04717b977)), closes [#31](https://github.com/navin-moorthy/vscode-css-snippets/issues/31)
+* **snippets:** ✨  add tailwind spacing - padding snippets ([#34](https://github.com/navin-moorthy/vscode-css-snippets/issues/34)) ([b34481a](https://github.com/navin-moorthy/vscode-css-snippets/commit/b34481a7b490bbb39156b6d3c22bb7c1f67199cf)), closes [#33](https://github.com/navin-moorthy/vscode-css-snippets/issues/33)
+* **snippets:** ✨  add tailwind spacing - space between snippets ([#36](https://github.com/navin-moorthy/vscode-css-snippets/issues/36)) ([29fe054](https://github.com/navin-moorthy/vscode-css-snippets/commit/29fe0548dbb8541f1b8b1467ffe2fa4a5b2e34b2)), closes [#35](https://github.com/navin-moorthy/vscode-css-snippets/issues/35)
+
+
+
+
+
+# [0.5.0](https://github.com/navin-moorthy/vscode-css-snippets/compare/v0.4.0...v0.5.0) (2020-08-10)
+
+
+### ✨ Features
+
+* **snippets:** ✨  add tailwind spacing - margin snippets ([#32](https://github.com/navin-moorthy/vscode-css-snippets/issues/32)) ([65e455e](https://github.com/navin-moorthy/vscode-css-snippets/commit/65e455e8be0d85d6b85bb9bbcd9352a04717b977)), closes [#31](https://github.com/navin-moorthy/vscode-css-snippets/issues/31)
+* **snippets:** ✨  add tailwind spacing - padding snippets ([#34](https://github.com/navin-moorthy/vscode-css-snippets/issues/34)) ([b34481a](https://github.com/navin-moorthy/vscode-css-snippets/commit/b34481a7b490bbb39156b6d3c22bb7c1f67199cf)), closes [#33](https://github.com/navin-moorthy/vscode-css-snippets/issues/33)
+* **snippets:** ✨  add tailwind spacing - space between snippets ([#36](https://github.com/navin-moorthy/vscode-css-snippets/issues/36)) ([29fe054](https://github.com/navin-moorthy/vscode-css-snippets/commit/29fe0548dbb8541f1b8b1467ffe2fa4a5b2e34b2)), closes [#35](https://github.com/navin-moorthy/vscode-css-snippets/issues/35)
+
+
+
+
+
 # [0.4.0](https://github.com/navin-moorthy/vscode-css-snippets/compare/v0.3.0...v0.4.0) (2020-07-22)
 
 
