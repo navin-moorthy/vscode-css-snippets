@@ -1,9 +1,13 @@
 # [Tailwind](https://tailwindcss.com/) Spacing
 
+![Spacing Snippets Showcase](https://github.com/navin-moorthy/vscode-css-snippets/raw/master/media/tailwind-spacing.gif)
+
 - [Tailwind Spacing](#tailwind-spacing)
+  - [Padding](#padding)
   - [Margin](#margin)
   - [Space Between](#space-between)
-    [Padding](https://tailwindcss.com/docs/padding)
+
+## [Padding](https://tailwindcss.com/docs/padding)
 
 | Snippet | Purpose                                        |
 | ------- | ---------------------------------------------- |

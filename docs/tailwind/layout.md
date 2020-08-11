@@ -1,6 +1,9 @@
 # [Tailwind](https://tailwindcss.com/) Layout
 
+![Layout Snippets Showcase](https://github.com/navin-moorthy/vscode-css-snippets/raw/master/media/tailwind-layout.gif)
+
 - [Tailwind Layout](#tailwind-layout)
+  - [Container](#container)
   - [Box Sizing](#box-sizing)
   - [Display](#display)
   - [Float](#float)
@@ -13,6 +16,8 @@
   - [Top / Right / Bottom / Left](#top--right--bottom--left)
   - [Visibility](#visibility)
   - [Z-Index](#z-index)
+
+## [Container](https://tailwindcss.com/docs/container)
 
 | Snippet     | Purpose                                                             |
 | ----------- | ------------------------------------------------------------------- |

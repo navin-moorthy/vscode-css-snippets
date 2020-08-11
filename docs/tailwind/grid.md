@@ -1,12 +1,16 @@
 # [Tailwind](https://tailwindcss.com/) Grid
 
+![Grid Snippets Showcase](https://github.com/navin-moorthy/vscode-css-snippets/raw/master/media/tailwind-grid.gif)
+
 - [Tailwind Grid](#tailwind-grid)
+  - [Grid Template Columns](#grid-template-columns)
   - [Grid Column Start / End](#grid-column-start--end)
   - [Grid Template Rows](#grid-template-rows)
   - [Grid Row Start / End](#grid-row-start--end)
   - [Gap](#gap)
   - [Grid Auto Flow](#grid-auto-flow)
-    [Grid Template Columns](https://tailwindcss.com/docs/grid-template-columns)
+
+## [Grid Template Columns](https://tailwindcss.com/docs/grid-template-columns)
 
 | Snippet          | Purpose                                            |
 | ---------------- | -------------------------------------------------- |
