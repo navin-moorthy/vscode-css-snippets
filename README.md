@@ -91,10 +91,10 @@ You can enable tab completion (recommended) by opening
 
 ### [Tailwind](https://tailwindcss.com/)
 
-- Layout Snippets
-- FlexBox Snippets
-- Grid Snippets
-- Spacing Snippets
+- [Layout Snippets](https://github.com/navin-moorthy/vscode-css-snippets/blob/master/docs/tailwind/layout.md)
+- [FlexBox Snippets](https://github.com/navin-moorthy/vscode-css-snippets/blob/master/docs/tailwind/flex.md)
+- [Grid Snippets](https://github.com/navin-moorthy/vscode-css-snippets/blob/master/docs/tailwind/grid.md)
+- [Spacing Snippets](https://github.com/navin-moorthy/vscode-css-snippets/blob/master/docs/tailwind/spacing.md)
 
 ### [1 line layouts](https://1linelayouts.glitch.me/)
 
