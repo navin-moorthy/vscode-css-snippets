@@ -102,92 +102,92 @@
 
   "-m-1": {
     "prefix": "-m-1",
-    "body": ["margin: 0.25rem;", ""],
+    "body": ["margin: -0.25rem;", ""],
     "description": "-m-1"
   },
   "-m-2": {
     "prefix": "-m-2",
-    "body": ["margin: 0.5rem;", ""],
+    "body": ["margin: -0.5rem;", ""],
     "description": "-m-2"
   },
   "-m-3": {
     "prefix": "-m-3",
-    "body": ["margin: 0.75rem;", ""],
+    "body": ["margin: -0.75rem;", ""],
     "description": "-m-3"
   },
   "-m-4": {
     "prefix": "-m-4",
-    "body": ["margin: 1rem;", ""],
+    "body": ["margin: -1rem;", ""],
     "description": "-m-4"
   },
   "-m-5": {
     "prefix": "-m-5",
-    "body": ["margin: 1.25rem;", ""],
+    "body": ["margin: -1.25rem;", ""],
     "description": "-m-5"
   },
   "-m-6": {
     "prefix": "-m-6",
-    "body": ["margin: 1.5rem;", ""],
+    "body": ["margin: -1.5rem;", ""],
     "description": "-m-6"
   },
   "-m-8": {
     "prefix": "-m-8",
-    "body": ["margin: 2rem;", ""],
+    "body": ["margin: -2rem;", ""],
     "description": "-m-8"
   },
   "-m-10": {
     "prefix": "-m-10",
-    "body": ["margin: 2.5rem;", ""],
+    "body": ["margin: -2.5rem;", ""],
     "description": "-m-10"
   },
   "-m-12": {
     "prefix": "-m-12",
-    "body": ["margin: 3rem;", ""],
+    "body": ["margin: -3rem;", ""],
     "description": "-m-12"
   },
   "-m-16": {
     "prefix": "-m-16",
-    "body": ["margin: 4rem;", ""],
+    "body": ["margin: -4rem;", ""],
     "description": "-m-16"
   },
   "-m-20": {
     "prefix": "-m-20",
-    "body": ["margin: 5rem;", ""],
+    "body": ["margin: -5rem;", ""],
     "description": "-m-20"
   },
   "-m-24": {
     "prefix": "-m-24",
-    "body": ["margin: 6rem;", ""],
+    "body": ["margin: -6rem;", ""],
     "description": "-m-24"
   },
   "-m-32": {
     "prefix": "-m-32",
-    "body": ["margin: 8rem;", ""],
+    "body": ["margin: -8rem;", ""],
     "description": "-m-32"
   },
   "-m-40": {
     "prefix": "-m-40",
-    "body": ["margin: 10rem;", ""],
+    "body": ["margin: -10rem;", ""],
     "description": "-m-40"
   },
   "-m-48": {
     "prefix": "-m-48",
-    "body": ["margin: 12rem;", ""],
+    "body": ["margin: -12rem;", ""],
     "description": "-m-48"
   },
   "-m-56": {
     "prefix": "-m-56",
-    "body": ["margin: 14rem;", ""],
+    "body": ["margin: -14rem;", ""],
     "description": "-m-56"
   },
   "-m-64": {
     "prefix": "-m-64",
-    "body": ["margin: 16rem;", ""],
+    "body": ["margin: -16rem;", ""],
     "description": "-m-64"
   },
   "-m-px": {
     "prefix": "-m-px",
-    "body": ["margin: 1px;", ""],
+    "body": ["margin: -1px;", ""],
     "description": "-m-px"
   },
 

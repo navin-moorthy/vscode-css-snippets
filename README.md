@@ -95,19 +95,27 @@ You can enable tab completion (recommended) by opening
 
 ### [Tailwind](https://tailwindcss.com/)
 
-#### [Layout Snippets](https://github.com/navin-moorthy/vscode-css-snippets/blob/master/docs/tailwind/layout.md)
+#### Layout Snippets
+
+**[List of all Layout Snippets →](https://github.com/navin-moorthy/vscode-css-snippets/blob/master/docs/tailwind/layout.md)**
 
 ![Layout Snippets Showcase](https://github.com/navin-moorthy/vscode-css-snippets/raw/master/media/tailwind-layout.gif)
 
-#### [FlexBox Snippets](https://github.com/navin-moorthy/vscode-css-snippets/blob/master/docs/tailwind/flex.md)
+#### FlexBox Snippets
+
+**[List of all FlexBox Snippets →](https://github.com/navin-moorthy/vscode-css-snippets/blob/master/docs/tailwind/flex.md)**
 
 ![FlexBox Snippets Showcase](https://github.com/navin-moorthy/vscode-css-snippets/raw/master/media/tailwind-flex.gif)
 
-#### [Grid Snippets](https://github.com/navin-moorthy/vscode-css-snippets/blob/master/docs/tailwind/grid.md)
+#### Grid Snippets
+
+**[List of all Grid Snippets →](https://github.com/navin-moorthy/vscode-css-snippets/blob/master/docs/tailwind/grid.md)**
 
 ![Grid Snippets Showcase](https://github.com/navin-moorthy/vscode-css-snippets/raw/master/media/tailwind-grid.gif)
 
-#### [Spacing Snippets](https://github.com/navin-moorthy/vscode-css-snippets/blob/master/docs/tailwind/spacing.md)
+#### Spacing Snippets
+
+**[List of all Spacing Snippets →](https://github.com/navin-moorthy/vscode-css-snippets/blob/master/docs/tailwind/spacing.md)**
 
 ![Spacing Snippets Showcase](https://github.com/navin-moorthy/vscode-css-snippets/raw/master/media/tailwind-spacing.gif)
 
