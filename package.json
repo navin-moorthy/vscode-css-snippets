@@ -1,7 +1,7 @@
 {
   "name": "vscode-css-snippets",
   "displayName": "VSCode CSS Snippets",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "description": "CSS Snippets for fast prototyping",
   "categories": [
     "Snippets"

@@ -3,6 +3,50 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.5.1](https://github.com/navin-moorthy/vscode-css-snippets/compare/v0.5.0...v0.5.1) (2020-08-11)
+
+
+### 🐛 Bug Fixes
+
+* **snippets:** 🐛  fix no negative margins and readme typo ([#44](https://github.com/navin-moorthy/vscode-css-snippets/issues/44)) ([fc61ed5](https://github.com/navin-moorthy/vscode-css-snippets/commit/fc61ed5b1c4b0c8083177ddd7cab9aa5685b8b7d)), closes [#43](https://github.com/navin-moorthy/vscode-css-snippets/issues/43)
+
+
+### 📦 Code Refactoring
+
+* **snippets:** ♻️  move space snippets to individual files ([#38](https://github.com/navin-moorthy/vscode-css-snippets/issues/38)) ([#40](https://github.com/navin-moorthy/vscode-css-snippets/issues/40)) ([bceaef2](https://github.com/navin-moorthy/vscode-css-snippets/commit/bceaef2ad4a430f93cb745b90ceeef401550032d))
+
+
+### 📚 Documentation
+
+* **gifs:** 📝  add intro gif for tailwind snippets added ([#41](https://github.com/navin-moorthy/vscode-css-snippets/issues/41)) ([#42](https://github.com/navin-moorthy/vscode-css-snippets/issues/42)) ([d494e71](https://github.com/navin-moorthy/vscode-css-snippets/commit/d494e711020fd9d90e6df714f6b3bd3a56ea6565))
+* **refactor:** 📝  better arrangment of docs for Tailwind ([#39](https://github.com/navin-moorthy/vscode-css-snippets/issues/39)) ([b5ab1a8](https://github.com/navin-moorthy/vscode-css-snippets/commit/b5ab1a8ae32615960e0f026267737adb50b1bce2)), closes [#37](https://github.com/navin-moorthy/vscode-css-snippets/issues/37)
+
+
+
+
+
+## [0.5.1](https://github.com/navin-moorthy/vscode-css-snippets/compare/v0.5.0...v0.5.1) (2020-08-11)
+
+
+### 🐛 Bug Fixes
+
+* **snippets:** 🐛  fix no negative margins and readme typo ([#44](https://github.com/navin-moorthy/vscode-css-snippets/issues/44)) ([fc61ed5](https://github.com/navin-moorthy/vscode-css-snippets/commit/fc61ed5b1c4b0c8083177ddd7cab9aa5685b8b7d)), closes [#43](https://github.com/navin-moorthy/vscode-css-snippets/issues/43)
+
+
+### 📦 Code Refactoring
+
+* **snippets:** ♻️  move space snippets to individual files ([#38](https://github.com/navin-moorthy/vscode-css-snippets/issues/38)) ([#40](https://github.com/navin-moorthy/vscode-css-snippets/issues/40)) ([bceaef2](https://github.com/navin-moorthy/vscode-css-snippets/commit/bceaef2ad4a430f93cb745b90ceeef401550032d))
+
+
+### 📚 Documentation
+
+* **gifs:** 📝  add intro gif for tailwind snippets added ([#41](https://github.com/navin-moorthy/vscode-css-snippets/issues/41)) ([#42](https://github.com/navin-moorthy/vscode-css-snippets/issues/42)) ([d494e71](https://github.com/navin-moorthy/vscode-css-snippets/commit/d494e711020fd9d90e6df714f6b3bd3a56ea6565))
+* **refactor:** 📝  better arrangment of docs for Tailwind ([#39](https://github.com/navin-moorthy/vscode-css-snippets/issues/39)) ([b5ab1a8](https://github.com/navin-moorthy/vscode-css-snippets/commit/b5ab1a8ae32615960e0f026267737adb50b1bce2)), closes [#37](https://github.com/navin-moorthy/vscode-css-snippets/issues/37)
+
+
+
+
+
 # [0.5.0](https://github.com/navin-moorthy/vscode-css-snippets/compare/v0.4.0...v0.5.0) (2020-08-10)
 
 
