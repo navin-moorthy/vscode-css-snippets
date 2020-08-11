@@ -53,7 +53,15 @@
       },
       {
         "language": "css",
-        "path": "./snippets/tailwind/spacing.json"
+        "path": "./snippets/tailwind/spacing/padding.json"
+      },
+      {
+        "language": "css",
+        "path": "./snippets/tailwind/spacing/margin.json"
+      },
+      {
+        "language": "css",
+        "path": "./snippets/tailwind/spacing/space-between.json"
       },
       {
         "language": "css",

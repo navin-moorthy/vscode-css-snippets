@@ -1,0 +1,1553 @@
+{
+  "space-x-0": {
+    "prefix": "space-x-0",
+    "body": [".${1:classname} > * + * {", "margin-left: 0;", "}", "", "${0}"],
+    "description": "space-x-0"
+  },
+  "space-x-1": {
+    "prefix": "space-x-1",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-left: 0.25rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "space-x-1"
+  },
+  "space-x-2": {
+    "prefix": "space-x-2",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-left: 0.5rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "space-x-2"
+  },
+  "space-x-3": {
+    "prefix": "space-x-3",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-left: 0.75rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "space-x-3"
+  },
+  "space-x-4": {
+    "prefix": "space-x-4",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-left: 1rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "space-x-4"
+  },
+  "space-x-5": {
+    "prefix": "space-x-5",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-left: 1.25rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "space-x-5"
+  },
+  "space-x-6": {
+    "prefix": "space-x-6",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-left: 1.5rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "space-x-6"
+  },
+  "space-x-8": {
+    "prefix": "space-x-8",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-left: 2rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "space-x-8"
+  },
+  "space-x-10": {
+    "prefix": "space-x-10",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-left: 2.5rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "space-x-10"
+  },
+  "space-x-12": {
+    "prefix": "space-x-12",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-left: 3rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "space-x-12"
+  },
+  "space-x-16": {
+    "prefix": "space-x-16",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-left: 4rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "space-x-16"
+  },
+  "space-x-20": {
+    "prefix": "space-x-20",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-left: 5rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "space-x-20"
+  },
+  "space-x-24": {
+    "prefix": "space-x-24",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-left: 6rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "space-x-24"
+  },
+  "space-x-32": {
+    "prefix": "space-x-32",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-left: 8rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "space-x-32"
+  },
+  "space-x-40": {
+    "prefix": "space-x-40",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-left: 10rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "space-x-40"
+  },
+  "space-x-48": {
+    "prefix": "space-x-48",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-left: 12rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "space-x-48"
+  },
+  "space-x-56": {
+    "prefix": "space-x-56",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-left: 14rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "space-x-56"
+  },
+  "space-x-64": {
+    "prefix": "space-x-64",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-left: 16rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "space-x-64"
+  },
+  "space-x-px": {
+    "prefix": "space-x-px",
+    "body": [".${1:classname} > * + * {", "margin-left: 1px;", "}", "", "${0}"],
+    "description": "space-x-px"
+  },
+
+  "-space-x-1": {
+    "prefix": "-space-x-1",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-left: -0.25rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "-space-x-1"
+  },
+  "-space-x-2": {
+    "prefix": "-space-x-2",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-left: -0.5rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "-space-x-2"
+  },
+  "-space-x-3": {
+    "prefix": "-space-x-3",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-left: -0.75rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "-space-x-3"
+  },
+  "-space-x-4": {
+    "prefix": "-space-x-4",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-left: -1rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "-space-x-4"
+  },
+  "-space-x-5": {
+    "prefix": "-space-x-5",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-left: -1.25rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "-space-x-5"
+  },
+  "-space-x-6": {
+    "prefix": "-space-x-6",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-left: -1.5rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "-space-x-6"
+  },
+  "-space-x-8": {
+    "prefix": "-space-x-8",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-left: -2rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "-space-x-8"
+  },
+  "-space-x-10": {
+    "prefix": "-space-x-10",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-left: -2.5rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "-space-x-10"
+  },
+  "-space-x-12": {
+    "prefix": "-space-x-12",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-left: -3rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "-space-x-12"
+  },
+  "-space-x-16": {
+    "prefix": "-space-x-16",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-left: -4rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "-space-x-16"
+  },
+  "-space-x-20": {
+    "prefix": "-space-x-20",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-left: -5rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "-space-x-20"
+  },
+  "-space-x-24": {
+    "prefix": "-space-x-24",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-left: -6rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "-space-x-24"
+  },
+  "-space-x-32": {
+    "prefix": "-space-x-32",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-left: -8rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "-space-x-32"
+  },
+  "-space-x-40": {
+    "prefix": "-space-x-40",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-left: -10rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "-space-x-40"
+  },
+  "-space-x-48": {
+    "prefix": "-space-x-48",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-left: -12rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "-space-x-48"
+  },
+  "-space-x-56": {
+    "prefix": "-space-x-56",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-left: -14rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "-space-x-56"
+  },
+  "-space-x-64": {
+    "prefix": "-space-x-64",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-left: -16rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "-space-x-64"
+  },
+  "-space-x-px": {
+    "prefix": "-space-x-px",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-left: -1px;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "-space-x-px"
+  },
+
+  "space-y-0": {
+    "prefix": "space-y-0",
+    "body": [".${1:classname} > * + * {", "margin-top: 0;", "}", "", "${0}"],
+    "description": "space-y-0"
+  },
+  "space-y-1": {
+    "prefix": "space-y-1",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-top: 0.25rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "space-y-1"
+  },
+  "space-y-2": {
+    "prefix": "space-y-2",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-top: 0.5rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "space-y-2"
+  },
+  "space-y-3": {
+    "prefix": "space-y-3",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-top: 0.75rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "space-y-3"
+  },
+  "space-y-4": {
+    "prefix": "space-y-4",
+    "body": [".${1:classname} > * + * {", "margin-top: 1rem;", "}", "", "${0}"],
+    "description": "space-y-4"
+  },
+  "space-y-5": {
+    "prefix": "space-y-5",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-top: 1.25rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "space-y-5"
+  },
+  "space-y-6": {
+    "prefix": "space-y-6",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-top: 1.5rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "space-y-6"
+  },
+  "space-y-8": {
+    "prefix": "space-y-8",
+    "body": [".${1:classname} > * + * {", "margin-top: 2rem;", "}", "", "${0}"],
+    "description": "space-y-8"
+  },
+  "space-y-10": {
+    "prefix": "space-y-10",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-top: 2.5rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "space-y-10"
+  },
+  "space-y-12": {
+    "prefix": "space-y-12",
+    "body": [".${1:classname} > * + * {", "margin-top: 3rem;", "}", "", "${0}"],
+    "description": "space-y-12"
+  },
+  "space-y-16": {
+    "prefix": "space-y-16",
+    "body": [".${1:classname} > * + * {", "margin-top: 4rem;", "}", "", "${0}"],
+    "description": "space-y-16"
+  },
+  "space-y-20": {
+    "prefix": "space-y-20",
+    "body": [".${1:classname} > * + * {", "margin-top: 5rem;", "}", "", "${0}"],
+    "description": "space-y-20"
+  },
+  "space-y-24": {
+    "prefix": "space-y-24",
+    "body": [".${1:classname} > * + * {", "margin-top: 6rem;", "}", "", "${0}"],
+    "description": "space-y-24"
+  },
+  "space-y-32": {
+    "prefix": "space-y-32",
+    "body": [".${1:classname} > * + * {", "margin-top: 8rem;", "}", "", "${0}"],
+    "description": "space-y-32"
+  },
+  "space-y-40": {
+    "prefix": "space-y-40",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-top: 10rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "space-y-40"
+  },
+  "space-y-48": {
+    "prefix": "space-y-48",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-top: 12rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "space-y-48"
+  },
+  "space-y-56": {
+    "prefix": "space-y-56",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-top: 14rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "space-y-56"
+  },
+  "space-y-64": {
+    "prefix": "space-y-64",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-top: 16rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "space-y-64"
+  },
+  "space-y-px": {
+    "prefix": "space-y-px",
+    "body": [".${1:classname} > * + * {", "margin-top: 1px;", "}", "", "${0}"],
+    "description": "space-y-px"
+  },
+
+  "-space-y-1": {
+    "prefix": "-space-y-1",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-top: -0.25rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "-space-y-1"
+  },
+  "-space-y-2": {
+    "prefix": "-space-y-2",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-top: -0.5rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "-space-y-2"
+  },
+  "-space-y-3": {
+    "prefix": "-space-y-3",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-top: -0.75rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "-space-y-3"
+  },
+  "-space-y-4": {
+    "prefix": "-space-y-4",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-top: -1rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "-space-y-4"
+  },
+  "-space-y-5": {
+    "prefix": "-space-y-5",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-top: -1.25rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "-space-y-5"
+  },
+  "-space-y-6": {
+    "prefix": "-space-y-6",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-top: -1.5rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "-space-y-6"
+  },
+  "-space-y-8": {
+    "prefix": "-space-y-8",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-top: -2rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "-space-y-8"
+  },
+  "-space-y-10": {
+    "prefix": "-space-y-10",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-top: -2.5rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "-space-y-10"
+  },
+  "-space-y-12": {
+    "prefix": "-space-y-12",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-top: -3rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "-space-y-12"
+  },
+  "-space-y-16": {
+    "prefix": "-space-y-16",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-top: -4rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "-space-y-16"
+  },
+  "-space-y-20": {
+    "prefix": "-space-y-20",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-top: -5rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "-space-y-20"
+  },
+  "-space-y-24": {
+    "prefix": "-space-y-24",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-top: -6rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "-space-y-24"
+  },
+  "-space-y-32": {
+    "prefix": "-space-y-32",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-top: -8rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "-space-y-32"
+  },
+  "-space-y-40": {
+    "prefix": "-space-y-40",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-top: -10rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "-space-y-40"
+  },
+  "-space-y-48": {
+    "prefix": "-space-y-48",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-top: -12rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "-space-y-48"
+  },
+  "-space-y-56": {
+    "prefix": "-space-y-56",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-top: -14rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "-space-y-56"
+  },
+  "-space-y-64": {
+    "prefix": "-space-y-64",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-top: -16rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "-space-y-64"
+  },
+  "-space-y-px": {
+    "prefix": "-space-y-px",
+    "body": [".${1:classname} > * + * {", "margin-top: -1px;", "}", "", "${0}"],
+    "description": "-space-y-px"
+  },
+
+  "space-x-reverse-0": {
+    "prefix": "space-x-reverse-0",
+    "body": [".${1:classname} > * + * {", "margin-right: 0;", "}", "", "${0}"],
+    "description": "space-x-reverse-0"
+  },
+  "space-x-reverse-1": {
+    "prefix": "space-x-reverse-1",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-right: 0.25rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "space-x-reverse-1"
+  },
+  "space-x-reverse-2": {
+    "prefix": "space-x-reverse-2",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-right: 0.5rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "space-x-reverse-2"
+  },
+  "space-x-reverse-3": {
+    "prefix": "space-x-reverse-3",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-right: 0.75rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "space-x-reverse-3"
+  },
+  "space-x-reverse-4": {
+    "prefix": "space-x-reverse-4",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-right: 1rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "space-x-reverse-4"
+  },
+  "space-x-reverse-5": {
+    "prefix": "space-x-reverse-5",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-right: 1.25rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "space-x-reverse-5"
+  },
+  "space-x-reverse-6": {
+    "prefix": "space-x-reverse-6",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-right: 1.5rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "space-x-reverse-6"
+  },
+  "space-x-reverse-8": {
+    "prefix": "space-x-reverse-8",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-right: 2rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "space-x-reverse-8"
+  },
+  "space-x-reverse-10": {
+    "prefix": "space-x-reverse-10",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-right: 2.5rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "space-x-reverse-10"
+  },
+  "space-x-reverse-12": {
+    "prefix": "space-x-reverse-12",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-right: 3rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "space-x-reverse-12"
+  },
+  "space-x-reverse-16": {
+    "prefix": "space-x-reverse-16",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-right: 4rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "space-x-reverse-16"
+  },
+  "space-x-reverse-20": {
+    "prefix": "space-x-reverse-20",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-right: 5rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "space-x-reverse-20"
+  },
+  "space-x-reverse-24": {
+    "prefix": "space-x-reverse-24",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-right: 6rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "space-x-reverse-24"
+  },
+  "space-x-reverse-32": {
+    "prefix": "space-x-reverse-32",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-right: 8rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "space-x-reverse-32"
+  },
+  "space-x-reverse-40": {
+    "prefix": "space-x-reverse-40",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-right: 10rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "space-x-reverse-40"
+  },
+  "space-x-reverse-48": {
+    "prefix": "space-x-reverse-48",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-right: 12rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "space-x-reverse-48"
+  },
+  "space-x-reverse-56": {
+    "prefix": "space-x-reverse-56",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-right: 14rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "space-x-reverse-56"
+  },
+  "space-x-reverse-64": {
+    "prefix": "space-x-reverse-64",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-right: 16rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "space-x-reverse-64"
+  },
+  "space-x-reverse-px": {
+    "prefix": "space-x-reverse-px",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-right: 1px;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "space-x-reverse-px"
+  },
+
+  "-space-x-reverse-1": {
+    "prefix": "-space-x-reverse-1",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-right: -0.25rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "-space-x-reverse-1"
+  },
+  "-space-x-reverse-2": {
+    "prefix": "-space-x-reverse-2",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-right: -0.5rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "-space-x-reverse-2"
+  },
+  "-space-x-reverse-3": {
+    "prefix": "-space-x-reverse-3",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-right: -0.75rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "-space-x-reverse-3"
+  },
+  "-space-x-reverse-4": {
+    "prefix": "-space-x-reverse-4",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-right: -1rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "-space-x-reverse-4"
+  },
+  "-space-x-reverse-5": {
+    "prefix": "-space-x-reverse-5",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-right: -1.25rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "-space-x-reverse-5"
+  },
+  "-space-x-reverse-6": {
+    "prefix": "-space-x-reverse-6",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-right: -1.5rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "-space-x-reverse-6"
+  },
+  "-space-x-reverse-8": {
+    "prefix": "-space-x-reverse-8",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-right: -2rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "-space-x-reverse-8"
+  },
+  "-space-x-reverse-10": {
+    "prefix": "-space-x-reverse-10",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-right: -2.5rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "-space-x-reverse-10"
+  },
+  "-space-x-reverse-12": {
+    "prefix": "-space-x-reverse-12",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-right: -3rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "-space-x-reverse-12"
+  },
+  "-space-x-reverse-16": {
+    "prefix": "-space-x-reverse-16",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-right: -4rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "-space-x-reverse-16"
+  },
+  "-space-x-reverse-20": {
+    "prefix": "-space-x-reverse-20",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-right: -5rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "-space-x-reverse-20"
+  },
+  "-space-x-reverse-24": {
+    "prefix": "-space-x-reverse-24",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-right: -6rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "-space-x-reverse-24"
+  },
+  "-space-x-reverse-32": {
+    "prefix": "-space-x-reverse-32",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-right: -8rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "-space-x-reverse-32"
+  },
+  "-space-x-reverse-40": {
+    "prefix": "-space-x-reverse-40",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-right: -10rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "-space-x-reverse-40"
+  },
+  "-space-x-reverse-48": {
+    "prefix": "-space-x-reverse-48",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-right: -12rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "-space-x-reverse-48"
+  },
+  "-space-x-reverse-56": {
+    "prefix": "-space-x-reverse-56",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-right: -14rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "-space-x-reverse-56"
+  },
+  "-space-x-reverse-64": {
+    "prefix": "-space-x-reverse-64",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-right: -16rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "-space-x-reverse-64"
+  },
+  "-space-x-reverse-px": {
+    "prefix": "-space-x-reverse-px",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-right: -1px;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "-space-x-reverse-px"
+  },
+
+  "space-y-reverse-0": {
+    "prefix": "space-y-reverse-0",
+    "body": [".${1:classname} > * + * {", "margin-bottom: 0;", "}", "", "${0}"],
+    "description": "space-y-reverse-0"
+  },
+  "space-y-reverse-1": {
+    "prefix": "space-y-reverse-1",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-bottom: 0.25rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "space-y-reverse-1"
+  },
+  "space-y-reverse-2": {
+    "prefix": "space-y-reverse-2",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-bottom: 0.5rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "space-y-reverse-2"
+  },
+  "space-y-reverse-3": {
+    "prefix": "space-y-reverse-3",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-bottom: 0.75rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "space-y-reverse-3"
+  },
+  "space-y-reverse-4": {
+    "prefix": "space-y-reverse-4",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-bottom: 1rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "space-y-reverse-4"
+  },
+  "space-y-reverse-5": {
+    "prefix": "space-y-reverse-5",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-bottom: 1.25rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "space-y-reverse-5"
+  },
+  "space-y-reverse-6": {
+    "prefix": "space-y-reverse-6",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-bottom: 1.5rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "space-y-reverse-6"
+  },
+  "space-y-reverse-8": {
+    "prefix": "space-y-reverse-8",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-bottom: 2rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "space-y-reverse-8"
+  },
+  "space-y-reverse-10": {
+    "prefix": "space-y-reverse-10",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-bottom: 2.5rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "space-y-reverse-10"
+  },
+  "space-y-reverse-12": {
+    "prefix": "space-y-reverse-12",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-bottom: 3rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "space-y-reverse-12"
+  },
+  "space-y-reverse-16": {
+    "prefix": "space-y-reverse-16",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-bottom: 4rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "space-y-reverse-16"
+  },
+  "space-y-reverse-20": {
+    "prefix": "space-y-reverse-20",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-bottom: 5rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "space-y-reverse-20"
+  },
+  "space-y-reverse-24": {
+    "prefix": "space-y-reverse-24",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-bottom: 6rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "space-y-reverse-24"
+  },
+  "space-y-reverse-32": {
+    "prefix": "space-y-reverse-32",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-bottom: 8rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "space-y-reverse-32"
+  },
+  "space-y-reverse-40": {
+    "prefix": "space-y-reverse-40",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-bottom: 10rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "space-y-reverse-40"
+  },
+  "space-y-reverse-48": {
+    "prefix": "space-y-reverse-48",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-bottom: 12rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "space-y-reverse-48"
+  },
+  "space-y-reverse-56": {
+    "prefix": "space-y-reverse-56",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-bottom: 14rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "space-y-reverse-56"
+  },
+  "space-y-reverse-64": {
+    "prefix": "space-y-reverse-64",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-bottom: 16rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "space-y-reverse-64"
+  },
+  "space-y-reverse-px": {
+    "prefix": "space-y-reverse-px",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-bottom: 1px;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "space-y-reverse-px"
+  },
+
+  "-space-y-reverse-1": {
+    "prefix": "-space-y-reverse-1",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-bottom: -0.25rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "-space-y-reverse-1"
+  },
+  "-space-y-reverse-2": {
+    "prefix": "-space-y-reverse-2",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-bottom: -0.5rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "-space-y-reverse-2"
+  },
+  "-space-y-reverse-3": {
+    "prefix": "-space-y-reverse-3",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-bottom: -0.75rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "-space-y-reverse-3"
+  },
+  "-space-y-reverse-4": {
+    "prefix": "-space-y-reverse-4",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-bottom: -1rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "-space-y-reverse-4"
+  },
+  "-space-y-reverse-5": {
+    "prefix": "-space-y-reverse-5",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-bottom: -1.25rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "-space-y-reverse-5"
+  },
+  "-space-y-reverse-6": {
+    "prefix": "-space-y-reverse-6",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-bottom: -1.5rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "-space-y-reverse-6"
+  },
+  "-space-y-reverse-8": {
+    "prefix": "-space-y-reverse-8",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-bottom: -2rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "-space-y-reverse-8"
+  },
+  "-space-y-reverse-10": {
+    "prefix": "-space-y-reverse-10",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-bottom: -2.5rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "-space-y-reverse-10"
+  },
+  "-space-y-reverse-12": {
+    "prefix": "-space-y-reverse-12",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-bottom: -3rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "-space-y-reverse-12"
+  },
+  "-space-y-reverse-16": {
+    "prefix": "-space-y-reverse-16",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-bottom: -4rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "-space-y-reverse-16"
+  },
+  "-space-y-reverse-20": {
+    "prefix": "-space-y-reverse-20",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-bottom: -5rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "-space-y-reverse-20"
+  },
+  "-space-y-reverse-24": {
+    "prefix": "-space-y-reverse-24",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-bottom: -6rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "-space-y-reverse-24"
+  },
+  "-space-y-reverse-32": {
+    "prefix": "-space-y-reverse-32",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-bottom: -8rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "-space-y-reverse-32"
+  },
+  "-space-y-reverse-40": {
+    "prefix": "-space-y-reverse-40",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-bottom: -10rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "-space-y-reverse-40"
+  },
+  "-space-y-reverse-48": {
+    "prefix": "-space-y-reverse-48",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-bottom: -12rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "-space-y-reverse-48"
+  },
+  "-space-y-reverse-56": {
+    "prefix": "-space-y-reverse-56",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-bottom: -14rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "-space-y-reverse-56"
+  },
+  "-space-y-reverse-64": {
+    "prefix": "-space-y-reverse-64",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-bottom: -16rem;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "-space-y-reverse-64"
+  },
+  "-space-y-reverse-px": {
+    "prefix": "-space-y-reverse-px",
+    "body": [
+      ".${1:classname} > * + * {",
+      "margin-bottom: -1px;",
+      "}",
+      "",
+      "${0}"
+    ],
+    "description": "-space-y-reverse-px"
+  }
+}
