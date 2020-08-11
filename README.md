@@ -43,6 +43,10 @@ You can enable tab completion (recommended) by opening
       - [Pseudo Styles](#pseudo-styles)
       - [Breakpoints](#breakpoints)
     - [Tailwind](#tailwind)
+      - [Layout Snippets](#layout-snippets)
+      - [FlexBox Snippets](#flexbox-snippets)
+      - [Grid Snippets](#grid-snippets)
+      - [Spacing Snippets](#spacing-snippets)
     - [1 line layouts](#1-line-layouts)
   - [Extra Guides](#extra-guides)
     - [Snippets generation from Selected line/lines](#snippets-generation-from-selected-linelines)
@@ -91,10 +95,21 @@ You can enable tab completion (recommended) by opening
 
 ### [Tailwind](https://tailwindcss.com/)
 
-- [Layout Snippets](https://github.com/navin-moorthy/vscode-css-snippets/blob/master/docs/tailwind/layout.md)
-- [FlexBox Snippets](https://github.com/navin-moorthy/vscode-css-snippets/blob/master/docs/tailwind/flex.md)
-- [Grid Snippets](https://github.com/navin-moorthy/vscode-css-snippets/blob/master/docs/tailwind/grid.md)
-- [Spacing Snippets](https://github.com/navin-moorthy/vscode-css-snippets/blob/master/docs/tailwind/spacing.md)
+#### [Layout Snippets](https://github.com/navin-moorthy/vscode-css-snippets/blob/master/docs/tailwind/layout.md)
+
+![Layout Snippets Showcase](https://github.com/navin-moorthy/vscode-css-snippets/raw/master/media/tailwind-layout.gif)
+
+#### [FlexBox Snippets](https://github.com/navin-moorthy/vscode-css-snippets/blob/master/docs/tailwind/flex.md)
+
+![FlexBox Snippets Showcase](https://github.com/navin-moorthy/vscode-css-snippets/raw/master/media/tailwind-flex.gif)
+
+#### [Grid Snippets](https://github.com/navin-moorthy/vscode-css-snippets/blob/master/docs/tailwind/grid.md)
+
+![Grid Snippets Showcase](https://github.com/navin-moorthy/vscode-css-snippets/raw/master/media/tailwind-grid.gif)
+
+#### [Spacing Snippets](https://github.com/navin-moorthy/vscode-css-snippets/blob/master/docs/tailwind/spacing.md)
+
+![Spacing Snippets Showcase](https://github.com/navin-moorthy/vscode-css-snippets/raw/master/media/tailwind-spacing.gif)
 
 ### [1 line layouts](https://1linelayouts.glitch.me/)
 

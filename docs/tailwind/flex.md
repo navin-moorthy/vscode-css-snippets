@@ -1,6 +1,9 @@
 # [Tailwind](https://tailwindcss.com/) FlexBox
 
+![FlexBox Snippets Showcase](https://github.com/navin-moorthy/vscode-css-snippets/raw/master/media/tailwind-flex.gif)
+
 - [Tailwind FlexBox](#tailwind-flexbox)
+  - [Flex Direction](#flex-direction)
   - [Flex Wrap](#flex-wrap)
   - [Align Items](#align-items)
   - [Align Content](#align-content)
@@ -10,7 +13,8 @@
   - [Flex Grow](#flex-grow)
   - [Flex Shrink](#flex-shrink)
   - [Flex Order](#flex-order)
-    [Flex Direction](https://tailwindcss.com/docs/flex-direction)
+
+## [Flex Direction](https://tailwindcss.com/docs/flex-direction)
 
 | Snippet            | Purpose                         |
 | ------------------ | ------------------------------- |
