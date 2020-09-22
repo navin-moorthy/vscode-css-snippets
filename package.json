@@ -23,7 +23,7 @@
     "format": "prettier --write \"./**/*.{js,ts,css,less,json,md,html,yml,yaml,pcss,jsx,tsx}\"",
     "lerna-version": "lerna version",
     "lint": "eslint . --ext .js --fix",
-    "lint:package": "sort-package-json"
+    "format:package": "sort-package-json"
   },
   "contributes": {
     "snippets": [
