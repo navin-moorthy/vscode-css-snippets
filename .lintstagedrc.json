@@ -3,6 +3,6 @@
     "prettier --write",
     "git add"
   ],
-  "package.json": ["yarn lint:package"],
+  "package.json": ["yarn format:package"],
   "**/*.{js,jsx}": ["yarn lint"]
 }
