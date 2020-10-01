@@ -574,6 +574,7 @@
       "embed,",
       "object {",
       "  display: block;",
+      "  vertical-align: middle;",
       "}",
       "",
       "/**",

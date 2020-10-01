@@ -14,29 +14,6 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [0.6.0](https://github.com/navin-moorthy/vscode-css-snippets/compare/v0.5.2...v0.6.0) (2020-10-01)
-
-
-### ✨ Features
-
-* **scss:** ✨  add support for scss files ([#47](https://github.com/navin-moorthy/vscode-css-snippets/issues/47)) ([293d2c5](https://github.com/navin-moorthy/vscode-css-snippets/commit/293d2c505976bd61dcca225c12d49d0b7cc9e368)), closes [#46](https://github.com/navin-moorthy/vscode-css-snippets/issues/46)
-
-
-
-
-
-## [0.5.2](https://github.com/navin-moorthy/vscode-css-snippets/compare/v0.5.1...v0.5.2) (2020-10-01)
-
-
-### ♻️ Chores
-
-* **deps:** ⬆️  update dev deps ([aecb309](https://github.com/navin-moorthy/vscode-css-snippets/commit/aecb3090b0e8a37d672f754de8fed29a66fa9022))
-* **deps:** bump node-fetch from 2.6.0 to 2.6.1 ([#45](https://github.com/navin-moorthy/vscode-css-snippets/issues/45)) ([fb1bbad](https://github.com/navin-moorthy/vscode-css-snippets/commit/fb1bbadb21e442446e645433cad6f4e552ad982b))
-
-
-
-
-
 ## [0.5.2](https://github.com/navin-moorthy/vscode-css-snippets/compare/v0.5.1...v0.5.2) (2020-10-01)
 
 
