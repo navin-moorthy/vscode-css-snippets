@@ -70,6 +70,50 @@
       {
         "language": "css",
         "path": "./snippets/contributions/snippet.json"
+      },
+      {
+        "language": "scss",
+        "path": "./snippets/css-reset.json"
+      },
+      {
+        "language": "scss",
+        "path": "./snippets/pseudo.json"
+      },
+      {
+        "language": "scss",
+        "path": "./snippets/breakpoints.json"
+      },
+      {
+        "language": "scss",
+        "path": "./snippets/tailwind/layout.json"
+      },
+      {
+        "language": "scss",
+        "path": "./snippets/tailwind/flexbox.json"
+      },
+      {
+        "language": "scss",
+        "path": "./snippets/tailwind/grid.json"
+      },
+      {
+        "language": "scss",
+        "path": "./snippets/tailwind/spacing/padding.json"
+      },
+      {
+        "language": "scss",
+        "path": "./snippets/tailwind/spacing/margin.json"
+      },
+      {
+        "language": "scss",
+        "path": "./snippets/tailwind/spacing/space-between.json"
+      },
+      {
+        "language": "scss",
+        "path": "./snippets/1linelayouts/snippets.json"
+      },
+      {
+        "language": "scss",
+        "path": "./snippets/contributions/snippet.json"
       }
     ]
   },
