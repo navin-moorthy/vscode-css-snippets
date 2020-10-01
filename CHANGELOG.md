@@ -3,6 +3,30 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.5.2](https://github.com/navin-moorthy/vscode-css-snippets/compare/v0.5.1...v0.5.2) (2020-10-01)
+
+
+### ♻️ Chores
+
+* **deps:** ⬆️  update dev deps ([aecb309](https://github.com/navin-moorthy/vscode-css-snippets/commit/aecb3090b0e8a37d672f754de8fed29a66fa9022))
+* **deps:** bump node-fetch from 2.6.0 to 2.6.1 ([#45](https://github.com/navin-moorthy/vscode-css-snippets/issues/45)) ([fb1bbad](https://github.com/navin-moorthy/vscode-css-snippets/commit/fb1bbadb21e442446e645433cad6f4e552ad982b))
+
+
+
+
+
+## [0.5.2](https://github.com/navin-moorthy/vscode-css-snippets/compare/v0.5.1...v0.5.2) (2020-10-01)
+
+
+### ♻️ Chores
+
+* **deps:** ⬆️  update dev deps ([aecb309](https://github.com/navin-moorthy/vscode-css-snippets/commit/aecb3090b0e8a37d672f754de8fed29a66fa9022))
+* **deps:** bump node-fetch from 2.6.0 to 2.6.1 ([#45](https://github.com/navin-moorthy/vscode-css-snippets/issues/45)) ([fb1bbad](https://github.com/navin-moorthy/vscode-css-snippets/commit/fb1bbadb21e442446e645433cad6f4e552ad982b))
+
+
+
+
+
 ## [0.5.1](https://github.com/navin-moorthy/vscode-css-snippets/compare/v0.5.0...v0.5.1) (2020-08-11)
 
 
