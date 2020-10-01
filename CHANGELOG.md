@@ -3,6 +3,28 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.6.0](https://github.com/navin-moorthy/vscode-css-snippets/compare/v0.5.2...v0.6.0) (2020-10-01)
+
+
+### ✨ Features
+
+* **scss:** ✨  add support for scss files ([#47](https://github.com/navin-moorthy/vscode-css-snippets/issues/47)) ([293d2c5](https://github.com/navin-moorthy/vscode-css-snippets/commit/293d2c505976bd61dcca225c12d49d0b7cc9e368)), closes [#46](https://github.com/navin-moorthy/vscode-css-snippets/issues/46)
+
+
+
+
+
+# [0.6.0](https://github.com/navin-moorthy/vscode-css-snippets/compare/v0.5.2...v0.6.0) (2020-10-01)
+
+
+### ✨ Features
+
+* **scss:** ✨  add support for scss files ([#47](https://github.com/navin-moorthy/vscode-css-snippets/issues/47)) ([293d2c5](https://github.com/navin-moorthy/vscode-css-snippets/commit/293d2c505976bd61dcca225c12d49d0b7cc9e368)), closes [#46](https://github.com/navin-moorthy/vscode-css-snippets/issues/46)
+
+
+
+
+
 ## [0.5.2](https://github.com/navin-moorthy/vscode-css-snippets/compare/v0.5.1...v0.5.2) (2020-10-01)
 
 
